@@ -1,0 +1,596 @@
+,price,name,brand,country_state,region,appellation,varietal,style,abv,taste,body,wine_adv_rating,customer_avg_rating,customer_total_ratings
+0,19.99,"Chateau Roques Mauriac Bordeaux Superieur, 2015",Chateau Roques Mauriac,France,Bordeaux,Bordeaux/Bordeaux Superieur,Bordeaux Blend,Fresh,13.5,"Raspberry, Cinnamon",Medium-bodied,88,4.2,25
+1,69.99,"Alta Nova Cabernet Napa, 2018",Alta Nova,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Blackberry, Raspberry, Oak",Full-bodied,94,3.9,53
+2,99.99,"Amici Cabernet Sauvignon Napa Reserve, 2019",Amici,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.7,"Blackberry, Red Fruit",Full-bodied,96,4.4,75
+3,44.99,"Stack House Cabernet Sauvignon Napa Valley, 2017",Stack House,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.9,"Blackberry, Raspberry, Oak",Full-bodied,92,4.8,28
+4,54.99,"Tether Cabernet Sauvignon Napa Valley , 2019",Tether,California,Napa Valley,,Cabernet Sauvignon,Elegant,14.8,"Raspberry, Cherry",Full-bodied,92,4.4,34
+0,49.99,"Titus Cabernet Sauvignon Napa Valley, 2014",Titus,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Blackberry, Oak",Full-bodied,90,4.6,75
+1,22.99,"Pallas Old Vine Garnacha Special Selection , 2013",Pallas,Spain,Calatayud,,Grenache,Elegant,15.5,"Black Fruit, Lavender",Medium-bodied,91,4.3,28
+2,14.99,"Tesoro de Bullas Monastrell, 2009",Tesoro de Bullas,Spain,La Mancha,,Mourvedre/Monastrell,Elegant,14,"Blueberry, Spice",Medium-bodied,90,3.8,26
+3,17.99,"Los Poetas Libertad Blend, 2018",Los Poetas,Argentina,Mendoza,,Red Blend,Elegant,14.5,"Red Fruit, Currant, Toast",Medium-bodied,90,4.3,24
+4,19.99,"Chateau de Nages Heritage Vieilles Vignes, 2016",Chateau De Nages,France,Rhone,Costieres de Nimes,Rhone Blend,Intense,15,"Black Cherry, Cassis",Medium-bodied,92,4.2,82
+0,41.99,"Clos St Michel Chateauneuf-du-Pape, 2017",Clos Saint Michel,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,Concentrated,14.5,"Raspberry, Spice",Full-bodied,95,4.4,40
+1,16.99,"Halos de Jupiter Costieres de Nimes Rouge, 2018",Halos De Jupiter,France,Rhone,Costieres de Nimes,Rhone Blend,Fresh,14,"Berry, Spice",Medium-bodied,90,4.3,68
+2,19.99,"Uro Toro Finca La Rana, 2013",URO,Spain,Toro,,Tempranillo,Fresh,14.5,"Black Fruit, Herb",Medium-bodied,91,4.2,41
+3,29.99,"Uro Toro Seleccion , 2014",URO,Spain,Toro,,Tempranillo,Intense,14.5,"Black Fruit, Spice",Full-bodied,93,4,5
+4,47.99,"Mount Peak Zinfandel Rattlesnake, 2014",Mount Peak,California,,,Zinfandel,,,,,92,4.8,4
+0,49.99,"Amici Cabernet Sauvignon Napa, 2019",Amici,California,Napa Valley,,Cabernet Sauvignon,Intense,13.4,"Blackberry, Vanilla, Spice",Full-bodied,94,4.4,347
+1,19.99,"Asua Rioja Crianza, 2016",Asua,Spain,Rioja,,Tempranillo,Intense,13.5,"Black Fruit, Wood, Spice",Medium-bodied,91,4.1,85
+2,37.99,"Donnachiara Taurasi, 2015",Donnachiara,Italy,Campagnia,,Aglianico,Intense,13.5,"Blackberry, Chocolate",Full-bodied,93,4.3,22
+3,36.99,"Chateau Garraud Lalande de Pomerol, 2016",Chateau Garraud,France,Bordeaux,Lalande-de-Pomerol,Bordeaux Blend,Elegant,14,"Blackberry, Chocolate",Full-bodied,90,4.2,12
+4,37.99,"Chateau Grand Corbin Manuel, 2015",Chateau Grand Corbin Manuel,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,13.5,"Raspberry, Dark Fruit",Full-bodied,93,4.3,8
+0,34.99,"Chateau La Rose Perriere Lussac St Emilion, 2018",Chateau La Rose Perriere,France,Bordeaux,Lussac-Saint-Emilion,Bordeaux Blend,Elegant,15,"Plum, Blackberry",Full-bodied,92,5,1
+1,999.97,"Chateau Lafite Rothschild Pauillac, 2017",Chateau Lafite Rothschild,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,12.5,"Cherry, Dark Berry, Oak",Full-bodied,97,1,1
+2,17.99,"Chateau Landat Haut Medoc, 2015",Chateau Landat,France,Bordeaux,Haut-Medoc,Bordeaux Blend,Elegant,13,"Vanilla, Spice",Medium-bodied,90,4,21
+3,154.99,"Almaviva Cabernet, 2011",Almaviva,Chile,Maipo Valley,,Cabernet Sauvignon,Concentrated,14.5,"Cassis, Mineral, Oak",Full-bodied,93,4.6,5
+4,99.99,"Blankiet Prince of Hearts Red Napa, 2015",Blankiet Estate,California,Napa Valley,Yountville,Cabernet Sauvignon,Elegant,14.2,"Black Cherry, Coffee",Medium-bodied,94,4.8,16
+0,124.99,"Darioush Signature Cabernet Sauvignon Napa, 2017",Darioush,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Espresso, Cedar",Full-bodied,92,4.4,10
+1,79.99,"Domus Aurea Cabernet, 2016",Domus Aurea,Chile,,,Cabernet Sauvignon,Intense,,"Cherry, Chocolate",Full-bodied,97,4.2,9
+2,229.99,"Far Niente Cabernet Sauvignon Oakville, 2016",Far Niente,California,Napa Valley,Oakville,Cabernet Sauvignon,Elegant,,"Cassis, Blackberry, Oak",Full-bodied,97,4.6,9
+3,114.99,"Figgins Estate Red Walla Walla Valley, 2013",Figgins,Washington,Columbia Valley,Walla Walla,Cabernet Sauvignon,Elegant,,"Cassis, Blueberry, Raspberry",Full-bodied,94,4.9,8
+4,79.99,"Flora Springs Trilogy, 2013",Flora Springs,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Plum, Tobacco",Medium-bodied,92,4.9,16
+0,104.99,"Frank Family Cabernet Reserve Rutherford, 2016",Frank Family,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Black Cherry, Blueberry, Spice",Full-bodied,93,4.8,8
+1,59.99,"Gamache Vintners Cabernet Sauvignon Heritage Reserve Columbia Valley, 2012",Gamache Vintners,Washington,Columbia Valley,,Cabernet Sauvignon,Elegant,14.9,"Plum, Earth",Full-bodied,92,5,2
+2,649.97,"Hundred Acre Ark Vineyard Cabernet Sauvignon Napa Valley, 2015",Hundred Acre,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Mulberry, Black Cherry, Floral",Full-bodied,100,5,1
+3,269.97,"Joseph Phelps Insignia, 2018",Joseph Phelps,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Cassis, Mocha, Cedar",Full-bodied,98,4.9,10
+4,199.99,"Kathryn Hall Cabernet Napa, 2017",Hall,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Cassis, Cherry, Cedar",Full-bodied,96,4.5,17
+0,159.97,"La Jota Cabernet Howell Mountain, 2018",La Jota,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,Intense,,"Cassis, Strawberry, Blackberry",Full-bodied,94,3.5,2
+1,89.99,"Lail Vineyards Blueprint Cabernet Napa Valley, 2019",Lail,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Plum, Spice",Full-bodied,94,4.4,12
+2,99.97,"Mt Brave Cabernet Sauvignon Mount Veeder, 2017",Mt Brave,California,,,Cabernet Sauvignon,,,,,95,4.4,7
+3,364.97,"Opus One, 2016",Opus One,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Plum, Blueberry, Rose",Full-bodied,98,5,12
+4,369.97,"Opus One, 2018",Opus One,California,Napa Valley,Oak Knoll,Cabernet Sauvignon,,,,,98,4.9,10
+0,129.99,"Orin Swift Cabernet Mercury Head, 2018",Orin Swift,California,Napa Valley,,Cabernet Sauvignon,,,,,96,4.3,16
+1,79.99,"O'Shaughnessy Cabernet Napa Valley, 2016",O'Shaughnessy,California,Napa Valley,,Cabernet Sauvignon,Fresh,,"Red Cherry, Rose, Orange",Full-bodied,94,5,3
+2,79.97,"Pride Cabernet Sauvignon, 2017",Pride,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Cherry, Spice",Full-bodied,90,5,5
+3,159.97,"Realm Cabernet Napa 'The Bard', 2010",Realm,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Chocolate, Dark Fruit, Lavender",Full-bodied,92,4.5,10
+4,55.99,"Shafer Cabernet Sauvignon Stags Leap District One Point Five, 2018",Shafer,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Elegant,,"Blackberry, Smoke",Medium-bodied,95,4.8,26
+0,99.97,"Shafer Cabernet Sauvignon Stags Leap District One Point Five, 2018",Shafer,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Elegant,,"Blackberry, Smoke",Medium-bodied,95,4.8,26
+1,69.99,"Sheridan L'Orage Yakima, 2016",Sheridan Vineyard,Washington,Yakima Valley,,Cabernet Sauvignon,Intense,14.1,"Fig, Vanilla",Full-bodied,92,4.4,21
+2,24.99,"Snake & Herring Dirty Boots Cabernet, 2017",Snake & Herring,Australia,Western Australia,Margaret River,Cabernet Sauvignon,Concentrated,14,"Blackberry, Cedar",Full-bodied,90,3.3,23
+3,149.99,"Stag's Leap FAY Cabernet Sauvignon, 2016",Stag's Leap,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Elegant,,"Cassis, Plum, Vanilla",Full-bodied,96,4.4,13
+4,209.99,"Stag's Leap SLV Cabernet Sauvignon, 2015",Stag's Leap,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Concentrated,,"Cassis, Spice, Cedar",Full-bodied,95,5,8
+0,44.99,"Moncayo Alto Campo De Borja, 2016",Alto Moncayo,Spain,Campo de Borja,,Grenache,Concentrated,,"Raspberry, Cherry",Full-bodied,92,4.5,8
+1,42.99,"Achaval Ferrer Quimera Mendoza, 2013",Achaval Ferrer,Argentina,Mendoza,,Malbec,Intense,,"Raspberry, Currant",Full-bodied,93,4.7,12
+2,13.99,"Atrevida Malbec, 2020",Atrevida,Argentina,,,Malbec,Elegant,13.8,"Mineral, Floral",Full-bodied,90,4.1,193
+3,60.99,"Cakebread Merlot, 2016",Cakebread,California,Napa Valley,,Merlot,Elegant,,"Blackberry, Mocha, Oak",Full-bodied,92,4.5,13
+4,37.99,"Sheridan Mystique Yakima, 2014",Sheridan Vineyard,Washington,Yakima Valley,,Merlot,Elegant,14.1,"Cherry, Spice",Medium-bodied,92,4.6,40
+0,28.99,"Mauro Veglio Langhe Nebbiolo DOC Angelo, 2019",Mauro Veglio,Italy,Piedmont,Langhe,Nebbiolo,Fresh,14,"Rose, Raspberry, Cherry",Light-bodied,91,4.2,6
+1,67.99,"Amici Pinot Noir Reserve Russian River Valley, 2018",Amici,California,Sonoma County,Russian River Valley,Pinot Noir,Elegant,14.2,"Raspberry, Strawberry, Cinnamon",Medium-bodied,94,4,6
+2,69.99,"Domaine Chevillon Chezeaux Vielles Vignes Nuits St. Georges, 2015",Domaine Chevillon Chezeaux,France,Burgundy,Nuits-Saint-Georges,Pinot Noir,Elegant,13,"Dark Fruit, Black Cherry",Medium-bodied,90,4.8,10
+3,71.99,"Domaine Drouhin Pinot Noir Laurene, 2015",Domaine Drouhin,Oregon,Willamette Valley,Dundee Hills,Pinot Noir,Elegant,,"Cherry, Spice, Vanilla",Medium-bodied,93,4.3,8
+4,46.99,"Domaine Drouhin Pinot Noir, 2018",Domaine Drouhin,Oregon,Willamette Valley,,Pinot Noir,Intense,,"Cherry, Smoke",Medium-bodied,94,4.6,46
+0,20.99,"Tesoro de Bullas Monastrell Seleccion, 2008",Tesoro de Bullas,Spain,,,Mourvedre/Monastrell,Concentrated,14,"Blueberry, Lavender",Full-bodied,91,4.3,6
+1,49.99,"Alessandria Barolo, 2015",Alessandria,Italy,Piedmont,Barolo,Nebbiolo,Elegant,14,"Red Berry, Vanilla",Full-bodied,93,4.1,14
+2,209.99,"Bruno Giacosa Barolo Falletto, 2012",Bruno Giacosa,Italy,Piedmont,Barolo,Nebbiolo,Concentrated,,"Berry, Anise, Rose",Full-bodied,94,5,1
+3,34.99,"Giribaldi Barbaresco, 2018",Giribaldi,Italy,Piedmont,,Nebbiolo,Elegant,14,"Plum, Berry, Spice",,91,4.8,6
+4,39.99,"Giribaldi Barolo, 2017",Giribaldi,Italy,Piedmont,Barolo,Nebbiolo,Elegant,14,"Dried Fruit, Red Fruit, Chocolate",,90,4.3,12
+0,54.99,"Domaine Serene Pinot Noir Yamhill Cuvee, 2017",Domaine Serene,Oregon,Willamette Valley,,Pinot Noir,Intense,,"Raspberry, Plum, Smoke",Medium-bodied,92,4.1,7
+1,55.99,"Domaine Tupinier Bautista Mercurey En Sazenay Premier Cru Rouge, 2019",Domaine Tupinier-Bautista,France,Burgundy,Mercurey,Pinot Noir,Elegant,13,"Raspberry, Black Cherry",Medium-bodied,92,4.4,7
+2,49.99,"Domaine Tupinier-Bautista Mercurey Vieilles Vignes, 2019",Domaine Tupinier-Bautista,France,Burgundy,Mercurey,Pinot Noir,Elegant,13,"Black Cherry, Raspberry",Medium-bodied,91,3.3,3
+3,50.99,"Edict Pinot Noir Anderson Valley, 2018",Edict,California,Mendocino,Anderson Valley,Pinot Noir,Concentrated,14.6,"Cherry, Raspberry, Spice",Medium-bodied,93,4,27
+4,119.97,"Kosta Browne Pinot Noir Sonoma Cst, 2018",Kosta Browne,California,Sonoma County,,Pinot Noir,Intense,,"Raspberry, Wild Berry, Vanilla",Medium-bodied,93,4.4,7
+0,54.99,"The Hilt Pinot Noir Santa Rita Hills , 2016",Jonata,California,Santa Barbara,Santa Rita Hills,Pinot Noir,,,,,93,4,4
+1,44.99,"Vincent Lumpp Givry Clos du Cras Long Premier Cru, 2017",Domaine Vincent Lumpp,France,Burgundy,Givry,Pinot Noir,Elegant,13,"Red Berry, Cherry",Medium-bodied,92,3.7,12
+2,39.99,"WALT Pinot Noir Blue Jay Anderson Valley, 2016",Walt,California,Mendocino,Anderson Valley,Pinot Noir,,,,,90,4.5,10
+3,79.99,"Arcanum Toscana IGT, 2015",Arcanum,Italy,Tuscany,,Red Blend,,,,,97,5,1
+4,89.99,"Domaine du Castel Grand Vin, 2014",Domaine du Castel,Israel,,,Red Blend,Oak,,"Currant, Cherry",,93,5,6
+0,14.99,"J. Navascues Cutio Garnacha, 2019",Cutio,Spain,Carinena,,Red Blend,Elegant,14.5,"Red Fruit, Floral",Full-bodied,92,4.2,20
+1,55.99,"Jonata Todos Red, 2015",Jonata,California,Santa Barbara,Santa Ynez,Red Blend,,,,,93,5,1
+2,37.99,"Leviathan Red Blend California, 2016",Leviathan,California,,,Red Blend,Fresh,,"Black Raspberry, Red Cherry",Full-bodied,94,4.3,33
+3,56.99,"Quinta das Carvalhas Old Vines (Vinas Velhas), 2018",Quinta das Carvalhas,Portugal,Douro,,Red Blend,Intense,14,"Black Fruit, Spice, Herb",Full-bodied,95,4.4,7
+4,22.99,"Quinta das Carvalhas Reserva Douro, 2019",Quinta das Carvalhas,Portugal,Douro,,Red Blend,Elegant,20,"Violet, Blackberry",Medium-bodied,90,4.4,44
+0,15.99,"Rapariga da Quinta Red, 2018",Rapariga da Quinta,Portugal,Alentejo,,Red Blend,Dry,14,"Blackberry, Spice, Blueberry",Medium-bodied,88,4.3,15
+1,25.99,"Rapariga da Quinta Reserva, 2016",Rapariga da Quinta,Portugal,Alentejo,,Red Blend,Elegant,14.5,"Dark Fruit, Vanilla, Blackberry",Full-bodied,90,4.6,23
+2,16.99,"Amadieu Cotes du Rhone Roulepierre, 2018",Pierre Amadieu,France,Rhone,Cotes du Rhone,Rhone Blend,Fresh,13.5,"Raspberry, Floral",Medium-bodied,88,4.3,26
+3,36.99,"Amadieu Domaine Grand Romane Gigondas Vieilles Vignes, 2017",Pierre Amadieu,France,Rhone,Gigondas,Rhone Blend,Elegant,14.5,"Cherry, Herb",Full-bodied,94,4.6,18
+4,34.99,"Amadieu Romane Machotte Gigondas, 2017",Pierre Amadieu,France,Rhone,Gigondas,Rhone Blend,Intense,14.5,"Cherry, Blackberry, Spice",Full-bodied,94,4.4,9
+0,13.99,"Chateau de Nages Buti Nages Nimes Rouge, 2015",Nages,France,Rhone,Costieres de Nimes,Rhone Blend,Intense,13.5,"Black Cherry, Blackberry",Medium-bodied,88,4,52
+1,51.99,"Clos St Michel Chateauneuf-du-Pape Reserve, 2017",Clos Saint Michel,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,Concentrated,14.5,"Dark Fruit, Spice",Full-bodied,94,4.1,20
+2,16.99,"Domaine de la Presidente Cairanne Rouge, 2019",Domaine de la Presidente,France,Rhone,Cairanne,Rhone Blend,Intense,15,"Cherry, Plum, Earth",Medium-bodied,90,4.2,10
+3,109.99,"Domaine du Pegau Chateauneuf-du-Pape Cuvee Reserve, 2017",Domaine du Pegau,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,95,5,4
+4,21.99,"Domaine Mousset Les Garrigues Cotes du Rhone, 2015",Les Garrigues,France,Rhone,Cotes du Rhone,Rhone Blend,Elegant,14.5,"Raspberry, Earth",Full-bodied,91,4.5,23
+0,29.99,"Halos de Jupiter Vacqueyras, 2015",Halos De Jupiter,France,Rhone,Vacqueyras,Rhone Blend,Concentrated,14,"Plum, Raspberry",Full-bodied,92,4.1,18
+1,26.99,"JV Fleury Cotes du Rhone Cairanne, 2015",JV Fleury,France,Rhone,Cairanne,Rhone Blend,Concentrated,14,"Blackberry, Pepper",Medium-bodied,91,3.9,9
+2,34.99,"Maison Denuziere Saint Joseph Martel, 2017",Maison Denuziere,France,Rhone,Saint-Joseph,Rhone Blend,Fresh,13.5,"Black Fruit, Cassis, Pepper",Full-bodied,92,4,5
+3,59.99,"Orin Swift Machete Red Blend, 2018",Orin Swift,California,,,Rhone Blend,,,,,93,4.8,31
+4,149.99,"Antinori Tignanello, 2018",Antinori,Italy,Tuscany,Bolgheri,Sangiovese,Elegant,,"Plum, Cassis, Cedar",Full-bodied,98,4.8,4
+0,77.99,"Banfi Brunello di Montalcino, 2012",Banfi,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Elegant,,"Berry, Spice, Anise",Full-bodied,92,4.9,18
+1,59.99,"Castiglion del Bosco Brunello di Montalcino, 2014",Castiglion del Bosco,Italy,Tuscany,Brunello di Montalcino,Sangiovese,,,,,91,4.5,11
+2,21.99,"Jip Jip Rocks Shiraz, 2016",Jip Jip Rocks,Australia,Limestone Coast,,Syrah/Shiraz,Fresh,15,"Blackberry, Pepper",Medium-bodied,92,4.2,30
+3,57.99,"K Vintners Syrah The Beautiful, 2015",K Vintners,Washington,Columbia Valley,Walla Walla,Syrah/Shiraz,,15.5,,,98,3,6
+4,16.99,"Les Piliers Syrah, 2015",Les Piliers,France,Vins de Pays d'Oc,,Syrah/Shiraz,Intense,14,"Cherry, Cassis, Spice",Full-bodied,89,4,37
+0,29.99,"Mitolo Angela Shiraz, 2018",Mitolo,Australia,McLaren Vale,,Syrah/Shiraz,,,,,93,5,1
+1,196.97,"Mollydooker Shiraz Velvet Glove, 2018",Mollydooker,Australia,McLaren Vale,,Syrah/Shiraz,Intense,,"Blueberry, Chocolate",Full-bodied,96,5,6
+2,28.49,"Baron de Ley Rioja Gran Reserva, 2001",Baron de Ley,Spain,Rioja,,Tempranillo,,,,,93,4.1,7
+3,51.99,"Emilio Moro Malleolus Ribera del Duero Tempranillo, 2018",Emilio Moro,Spain,Ribera del Duero,,Tempranillo,Concentrated,,"Cherry, Berry, Mocha",Full-bodied,93,5,3
+4,21.99,"Pico Cuadro Original Ribera Del Duero, 2016",Pico Cuadro,Spain,Ribera del Duero,,Tempranillo,Elegant,14.5,"Black Fruit, Spice",Medium-bodied,90,4.4,11
+0,86.99,"Pingus Flor de Pingus Ribera, 2012",Flor de Pingus,Spain,Ribera del Duero,,Tempranillo,,,,,93,5,3
+1,111.99,"Vega Sicilia Alion, 2014",Vega Sicilia,Spain,Ribera del Duero,,Tempranillo,Elegant,,"Cassis, Espresso, Smoke",Full-bodied,94,4.5,4
+2,59.99,"Vega Sicilia & Rothschild Macan Clasico, 2013",Vega Sicilia,Spain,Rioja,,Tempranillo,,14,,,92,4.8,4
+3,59.99,"Martinelli Zinfandel Giuseppe & Luisa Vineyard, 2019",Martinelli,California,Sonoma County,,Zinfandel,Intense,,"Blackberry, Herb",Full-bodied,97,4.3,4
+4,49.99,"Turley Zinfandel Old Vines, 2019",Turley,California,,,Zinfandel,Concentrated,,"Raspberry, Plum",Full-bodied,93,4.3,8
+0,49.99,"Orin Swift Slander Pinot Noir , 2017",Orin Swift,California,,,Pinot Noir,Concentrated,,"Strawberry, Cherry, Violet",Medium-bodied,93,4.6,31
+1,51.99,"Patz & Hall Pinot Noir Sonoma Coas, 2013",Patz & Hall,California,Sonoma County,,Pinot Noir,Elegant,,"Plum, Cherry",Medium-bodied,91,4.1,15
+2,34.99,"Petites Secondes Pinot Noir Willamette, 2017",Petites Secondes,Oregon,Willamette Valley,,Pinot Noir,Elegant,14.1,"Dark Berry, Blueberry",Medium-bodied,92,4.2,69
+3,29.99,"River Road Pinot Noir Stephanie's Russian River Valley, 2016",River Road,California,Sonoma County,Russian River Valley,Pinot Noir,Elegant,14.3,"Cherry, Raspberry, Cocoa",Medium-bodied,90,4.4,39
+4,89.99,"Rochioli Pinot Noir Russian River Valley, 2014",Rochioli,California,Sonoma County,Russian River Valley,Pinot Noir,Elegant,,"Cherry, Plum, Smoke",Medium-bodied,90,4.7,9
+0,21.99,"Donnachiara Aglianico Irpinia, 2015",Donnachiara,Italy,Campagnia,,Aglianico,Elegant,13,"Prune, Berry, Spice",Full-bodied,91,3.9,21
+1,32.99,"Batzella Bolgheri Pean, 2016",Batzella,Italy,Tuscany,Bolgheri,Bordeaux Blend,Elegant,14.4,"Cherry, Herb",Medium-bodied,92,4,13
+2,45.99,"Batzella Bolgheri Tam, 2010",Batzella,Italy,Tuscany,Bolgheri,Bordeaux Blend,Elegant,14.5,"Cherry, Mocha",Medium-bodied,93,4.1,10
+3,47.99,"Castello Paneretta Terrine IGT, 2005",Castello della Paneretta,Italy,Tuscany,Toscana,Bordeaux Blend,Elegant,12.5,"Spice, Blackberry",Full-bodied,92,5,2
+4,99.99,"Chateau Beau-Sejour Becot St Emilion, 2017",Chateau Beau-Sejour Becot,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,13.5,"Oak, Cherry, Raspberry",Full-bodied,96,,0
+0,69.99,"Chateau Garraud Lalande de Pomerol, 2016",Chateau Garraud,France,Bordeaux,Lalande-de-Pomerol,Bordeaux Blend,Elegant,14,"Blackberry, Plum",Full-bodied,90,3.8,10
+1,32.99,"Chateau Joanin Becot Castillion, 2012",Chateau Joanin Becot,France,Bordeaux,Castillon/Cotes de Bordeaux,Bordeaux Blend,Intense,13.5,"Raspberry, Cedar",Medium-bodied,90,3.8,12
+2,589.99,"Chateau Lafite Rothschild Pauillac, 2018",Chateau Lafite Rothschild,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,12.5,"Cherry, Dark Berry, Oak",Full-bodied,100,,0
+3,"1,399.97","Chateau Lafite Rothschild Pauillac, 2018",Chateau Lafite Rothschild,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,12.5,"Cherry, Dark Berry, Oak",Full-bodied,100,,0
+4,129.99,"Chateau Malescot St Exupery Margaux, 2018",Chateau Malescot st Exupery,France,Bordeaux,Margaux,Bordeaux Blend,Concentrated,14.5,"Red Cherry, Fig, Oak",Full-bodied,95,5,1
+0,"1,149.97","Chateau Margaux Margaux, 2018",Chateau Margaux,France,Bordeaux,Margaux,Bordeaux Blend,Intense,12.5,"Raspberry, Blueberry, Oak",Full-bodied,100,5,5
+1,59.99,"Chateau Quinault L'Enclos St. Emilion, 2016",Chateau Quinault L'Enclos,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Intense,13,"Dark Berry, Raspberry",Full-bodied,93,3,4
+2,37.99,"Chateau Rochemorin Rouge Pessac, 2014",Chateau Rochemorin,France,Bordeaux,Pessac-Leognan,Bordeaux Blend,Elegant,13,"Currant, Tobacco",Medium-bodied,90,3,6
+3,64.97,"Ornellaia Le Serre Nuove, 2014",Ornellaia,Italy,Tuscany,Toscana,Bordeaux Blend,Fresh,,"Herb, Black Fruit",Medium-bodied,90,4,4
+4,"3,699.97","Petrus Pomerol, 2015",Petrus,France,Bordeaux,Pomerol,Bordeaux Blend,Elegant,14.5,"Cassis, Black Currant, Smooth",Full-bodied,100,5,1
+0,199.99,"Amici Cabernet Sauvignon Morisoli Vineyard, 2018",Amici,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,14.7,"Coffee, Blackberry, Cocoa",Full-bodied,96,4.8,8
+1,179.99,"Amici Cabernet Sauvignon Spring Mountain, 2017",Amici,California,Napa Valley,Spring Mountain,Cabernet Sauvignon,Elegant,14.9,"Clove, Raspberry, Olive",Full-bodied,96,4.2,10
+2,69.99,"Aquilini Red Mountain Cabernet Sauvignon, 2017",Aquilini,Washington,Columbia Valley,Red Mountain,Cabernet Sauvignon,,,,,97,,0
+3,639.97,"Beringer 8th Maker Cabernet Sauvignon Napa Valley, 2016",Beringer,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Blackberry, Coffee, Herbes de Provence",Full-bodied,95,,0
+4,799.99,"Bryant Family Vineyard Cabernet Napa, 2012",Bryant Family,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Currant, Black Plum",Full-bodied,98,,0
+0,129.99,"Don Melchor Cabernet Sauvignon, 2016",Concha Y Toro,Chile,Maipo Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Blackberry",,94,4,3
+1,174.99,"Dunn Cabernet Howell Mountain, 2015",Dunn,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Currant, Cedar",Full-bodied,95,,0
+2,169.99,"Eisele Vineyards Altagracia Napa, 2017",Araujo,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Black Fruit, Blackberry, Herb",Full-bodied,95,4,1
+3,44.99,"Gamache Vintners Nicolas Columbia, 2011",Gamache Vintners,Washington,Columbia Valley,,Cabernet Sauvignon,Intense,14.5,"Cherry, Spice",Medium-bodied,90,5,4
+4,49.99,"Glenelly Cabernet Lady May, 2011",Glenelly,South Africa,Stellenbosch,,Cabernet Sauvignon,,,,,92,,0
+0,89.99,"Immortal Estate Slope Cabernet Sauvignon, 2014",Immortal Estate,California,Sonoma County,,Cabernet Sauvignon,,,,,97,,0
+1,209.99,"Inglenook Rubicon Rutherford, 2012",Inglenook Winery (Coppola),California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Cassis, Anise, Cedar",Full-bodied,95,4.5,2
+2,129.99,"J Davies Cabernet Sauvignon Diamond Mountain, 2010",Davies Vineyards,California,Napa Valley,Diamond Mountain,Cabernet Sauvignon,Intense,,Blackberry,Full-bodied,92,5,2
+3,209.97,"La Sirena Cabernet Sauvignon, 2013",La Sirena,California,Napa Valley,,Cabernet Sauvignon,,,,,95,,0
+4,229.99,"Mark Herold Cabernet Sauvignon White Label Oakville, 2012",Mark Herold,California,Napa Valley,Oakville,Cabernet Sauvignon,Concentrated,15.2,"Blackberry, Espresso",Full-bodied,95,3.7,3
+0,799.99,"Bryant Family Vineyard Cabernet Napa, 2012",Bryant Family,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Currant, Black Plum",Full-bodied,98,,0
+1,49.99,"Cadence Ciel du Cheval Red, 2015",Cadence,Washington,Columbia Valley,Red Mountain,Cabernet Sauvignon,Concentrated,14.4,"Cherry, Spice",Full-bodied,93,,0
+2,47.99,"Cadence Tapteil Red Mountain, 2008",Cadence,Washington,Columbia Valley,Red Mountain,Cabernet Sauvignon,Elegant,14.4,"Plum, Spice",Medium-bodied,90,3.8,6
+3,219.97,"Cakebread Dancing Bear Ranch Red, 2018",Cakebread,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,,,,,97,,0
+4,329.99,"Cliff Lede Cabernet Poetry Stags Leap District, 2014",Cliff Lede,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Elegant,,"Blackberry, Cassis, Chocolate",Full-bodied,95,5,1
+0,169.97,"Grgich Hills Cabernet Yountville Selection, 2012",Grgich Hills,California,Napa Valley,Yountville,Cabernet Sauvignon,,,,,94,,0
+1,124.99,"Gundlach Bundschu Cabernet Sauvignon Reserve, 2016",Gundlach Bundschu,California,Sonoma County,,Cabernet Sauvignon,Elegant,,"Red Berry, Dark Fruit",Medium-bodied,92,5,2
+2,169.99,"Hestan Vineyards Cabernet Napa Valley, 2014",Hestan Vineyards,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.8,"Blackberry, Black Currant, Smoke",,96,4,2
+3,94.99,"Hunnicutt Cabernet Sauvignon Napa Valley, 2014",Hunnicutt,California,Napa Valley,,Cabernet Sauvignon,Oak,14.5,"Blackberry, Fruity",Full-bodied,90,4.5,13
+4,89.99,"Immortal Estate Slope Cabernet Sauvignon, 2014",Immortal Estate,California,Sonoma County,,Cabernet Sauvignon,,,,,97,,0
+0,219.99,"Merryvale Profile, 2012",Merryvale,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Cocoa, Cedar",Full-bodied,92,5,2
+1,129.99,"Moone Tsai Hillside Red Howell Mountain, 2015",Moone Tsai,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,Intense,14.7,"Blackberry, Raspberry, Oak",Full-bodied,96,4.6,5
+2,299.99,"Nickel & Nickel Cabernet State Ranch, 2016",Nickel & Nickel,California,Napa Valley,,Cabernet Sauvignon,,,,,95,4.7,9
+3,46.99,"Otis Kenyon Cabernet Sauvignon Walla Walla, 2015",Otis Kenyon,Washington,Columbia Valley,Walla Walla,Cabernet Sauvignon,Concentrated,14.4,"Black Cherry, Fig",Full-bodied,90,4.3,10
+4,349.97,"OVID Proprietary Red Wine, 2016",OVID,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Raspberry, Spice",Medium-bodied,99,,0
+0,139.99,"Patria Cabernet Sauvignon A. Price Vineyard, 2018",Patria,California,Napa Valley,St. Helena,Cabernet Sauvignon,Elegant,15.2,"Cranberry, Blackberry, Chocolate",Full-bodied,96,,0
+1,49.99,"Paul Hobbs Crossbarn Cabernet Sauvignon Sonoma County, 2016",Paul Hobbs,California,Sonoma County,,Cabernet Sauvignon,Intense,13,"Black Raspberry, Black Cherry",Full-bodied,92,4,1
+2,99.99,"Post Parade Cabernet Sauvignon, 2016",Post Parade,California,,,Cabernet Sauvignon,Concentrated,,"Blueberry, Cassis, Black Fruit",Full-bodied,92,5,1
+3,109.99,"Round Pond Cabernet Sauvignon Reserve Rutherford, 2016",Round Pond,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Black Cherry, Mocha, Licorice",Full-bodied,91,5,4
+4,269.99,"Roy Estate Mr. Evans Proprietary Red, 2015",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,15.3,"Red Cherry, Blackberry",Full-bodied,95,5,3
+0,129.99,"Rudd Estate Cabernet Samanthas, 2010",Rudd Estate,California,Napa Valley,Oakville,Cabernet Sauvignon,Intense,,"Black Cherry, Blackberry, Plum",Full-bodied,93,4.7,3
+1,149.99,"Sheridan Cabernet Block One Yakima, 2014",Sheridan Vineyard,Washington,Yakima Valley,,Cabernet Sauvignon,Intense,14.1,"Chocolate, Cassis",Full-bodied,99,3.6,8
+2,84.97,"Spottswoode Cabernet Sauvignon Lyndenhurst, 2017",Spottswoode,California,Napa Valley,,Cabernet Sauvignon,,,,,92,4.5,2
+3,279.97,"Staglin Cabernet, 2014",Staglin,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Cassis, Olive, Cedar",,94,5,2
+4,169.99,"Turnbull Cabernet Sauvignon Black Label Oakville Estate, 2015",Turnbull,California,Napa Valley,Oakville,Cabernet Sauvignon,Intense,,"Currant, Cedar, Mocha",,94,,0
+0,429.97,"Verite Cabernet La Joie, 2018",Verite,California,Sonoma County,,Cabernet Sauvignon,Intense,,"Blackberry, Truffle",Full-bodied,98,,0
+1,97.99,"Achaval Ferrer Malbec Mirador, 2014",Achaval Ferrer,Argentina,Mendoza,,Malbec,Intense,,"Blackberry, Black Currant",Full-bodied,95,4,1
+2,36.99,"Tikal Amorio Malbec, 2017",Tikal,Argentina,Mendoza,,Malbec,Elegant,,"Cherry, Plum",Medium-bodied,92,4.4,9
+3,129.98,"Moone Tsai Hillside Red Howell Mountain, 2014",Moone Tsai,California,Napa Valley,Howell Mountain,Merlot,Concentrated,14.7,"Black Currant, Red Cherry",Full-bodied,94,4.5,2
+4,53.99,"Spring Valley Uriah Walla Walla, 2012",Spring Valley,Washington,Columbia Valley,Walla Walla,Merlot,Intense,,"Cherry, Coffee",Medium-bodied,93,4.4,10
+0,429.97,"Verite Le Desir, 2017",Verite,California,Sonoma County,,Merlot,Elegant,,"Cassis, Spice, Earth",Full-bodied,98,,0
+1,429.97,"Verite Merlot La Muse, 2017",Verite,California,Sonoma County,,Merlot,Concentrated,,"Cherry, Cedar, Mocha",Full-bodied,99,5,1
+2,64.99,"Austin Hope Mourvedre Templeton Gap Paso Robles, 2014",Austin Hope,California,Central Coast,Paso Robles,Mourvedre/Monastrell,Intense,,"Dark Fruit, Blueberry",Full-bodied,92,4.9,8
+3,219.99,"Gaja Barbaresco, 2009",Gaja,Italy,Piedmont,Barbaresco,Nebbiolo,Elegant,,"Cherry, Berry",Full-bodied,93,4.5,2
+4,319.97,"Gaja Sperss, 2016",Gaja,Italy,Piedmont,Langhe,Nebbiolo,,,,,100,,0
+0,164.99,"Pio Cesare Barbaresco Il Bricco, 2016",Pio Cesare,Italy,Piedmont,Barbaresco,Nebbiolo,,,,,94,,0
+1,89.99,"Pio Cesare Barbaresco, 2016",Pio Cesare,Italy,Piedmont,Barbaresco,Nebbiolo,Intense,,"Berry, Violet, Vanilla",Full-bodied,93,,0
+2,89.99,"Pio Cesare Barolo, 2016",Pio Cesare,Italy,Piedmont,Barolo,Nebbiolo,Elegant,,"Rose, Berry, Earth",Full-bodied,95,5,2
+3,59.99,"Renato Ratti Barolo Marcenasco, 2012",Renato Ratti,Italy,Piedmont,Barolo,Nebbiolo,Elegant,,"Berry, Cassis, Earth",Medium-bodied,90,,0
+4,49.99,"Gaja Idda Sicilia Rosso, 2018",Gaja,Italy,Sicily,,Nerello Mascalese,,,,,91,1,1
+0,72.99,"Arista Pinot Noir Russian River Valley, 2018",Arista,California,Sonoma County,Russian River Valley,Pinot Noir,,,,,95,,0
+1,57.99,"Au Bon Climat Pinot Noir Knox Alexander, 2015",Au Bon Climat,California,Santa Barbara,,Pinot Noir,,,,,91,4.7,3
+2,84.99,"Evening Land Pinot Noir La Source, 2018",Evening Land,Oregon,Willamette Valley,,Pinot Noir,Intense,,"Blackberry, Raspberry, Mineral",Medium-bodied,92,3.8,4
+3,74.99,"Faiveley Nuits St George, 2018",Faiveley,France,Burgundy,Nuits-Saint-Georges,Pinot Noir,,,,,91,,0
+4,56.99,"Foxen Pinot Noir Bien Nacido, 2016",Foxen,California,Santa Barbara,Santa Maria Valley,Pinot Noir,,,,,92,,0
+0,48.49,"Hansel Pinot Noir Cahill Lane, 2015",Hansel,California,Sonoma County,Russian River Valley,Pinot Noir,Elegant,,"Plum, Black Cherry, Earth",Full-bodied,93,5,3
+1,54.99,"Hansel Pinot Noir South Slope, 2015",Hansel,California,Sonoma County,,Pinot Noir,Concentrated,,"Black Cherry, Cola, Earth",Medium-bodied,94,4.5,2
+2,67.99,"Martinelli Pinot Noir Bondi Ranch, 2018",Martinelli,California,Sonoma County,,Pinot Noir,Fresh,,"Blackberry, Plum",Medium-bodied,92,4.7,3
+3,67.99,"Patz & Hall Pinot Noir Gap's Crown Vineyard Sonoma Coast, 2016",Patz & Hall,California,Sonoma County,,Pinot Noir,Elegant,14.2,"Berry, Cherry",Medium-bodied,93,4.8,4
+4,67.99,"Patz & Hall Pinot Noir Hyde Vineyard, 2016",Patz & Hall,California,,,Pinot Noir,Intense,,"Plum, Raspberry",Full-bodied,93,4,2
+0,149.99,"Paul Hobbs Pinot Noir Katherine Lindsay Estate Russian River, 2018",Paul Hobbs,California,Sonoma County,Russian River Valley,Pinot Noir,Fresh,,"Raspberry, Cherry, Blueberry",Full-bodied,95,,0
+1,82.99,"WALT Pinot Noir Bob's Ranch, 2018",Walt,California,Sonoma County,Sonoma Coast,Pinot Noir,,,,,92,5,1
+2,94.99,"Wayfarer Pinot Noir Wayfarer Vineyard Sonoma Coast, 2014",Wayfarer,California,Sonoma County,Sonoma Coast,Pinot Noir,,14.5,,,93,5,1
+3,44.99,"Blackbird Arise Red, 2016",Blackbird,California,Napa Valley,,Red Blend,,,,,92,5,1
+4,179.99,"Bryant Family Vineyard Red Blend DB4, 2016",Bryant Family,California,Napa Valley,,Red Blend,Concentrated,,"Red Berry, Plum, Cedar",Full-bodied,92,,0
+0,289.99,"Catena Zapata Nicolas Red, 2008",Catena,Argentina,Mendoza,,Red Blend,Concentrated,,"Cassis, Violet, Cedar",Full-bodied,98,5,12
+1,99.99,"Clos Martinet Priorat, 2017",Clos Martinet,Spain,Priorat,,Red Blend,Intense,,"Floral, Blackberry",Full-bodied,95,5,1
+2,189.99,"Fontodi Vigna del Sorbo Gran Selezione, 2011",Fontodi,Italy,Tuscany,Chianti Classico,Red Blend,Intense,,"Red Berry, Black Cherry",Medium-bodied,94,,0
+3,69.99,"Hudson Phoenix Red Blend, 2016",Hudson,California,Napa Valley,,Red Blend,Fresh,,"Cherry, Vanilla, Clove",Medium-bodied,94,5,1
+4,64.99,"L'Aventure Optimus Estate, 2017",L'Aventure,California,Central Coast,Paso Robles,Red Blend,Concentrated,,"Black Fruit, Blueberry, Anise",Full-bodied,93,5,1
+0,99.99,"Leviathan Red Blend California, 2015",Leviathan,Bulgaria,,,Red Blend,Fresh,,"Black Raspberry, Red Cherry",Full-bodied,92,4.3,33
+1,154.99,"Chateau Beaucastel Chateauneuf-du-Pape Rouge, 2006",Chateau Beaucastel,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,95,,0
+2,30.99,"Domaine Grand Veneur 'Les Champauvins', 2016",Domaine Grand Veneur,France,Rhone,Cotes du Rhone,Rhone Blend,Intense,14.5,"Cassis, Black Cherry",Medium-bodied,92,4,7
+3,99.97,"Guigal Chateau de Nalys Chateauneuf du Pape Grand Vin Rouge, 2016",E. Guigal,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,14.8,,,95,,0
+4,174.99,"Guigal Cote Rotie d'Ampuis, 2014",E. Guigal,France,Rhone,Cote Rotie,Rhone Blend,Concentrated,,"Cassis, Smoke, Spice",Full-bodied,93,,0
+0,59.99,"La Milliere Chateauneuf-du-Pape Vieilles Vignes, 2015",La Milliere,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,Intense,14,"Dark Fruit, Pepper, Olive",Medium-bodied,92,4,2
+1,69.99,"Maison Denuziere Cornas En Sauman, 2015",Maison Denuziere,France,Rhone,Cornas,Rhone Blend,Fresh,13,"Black Fruit, Earth, Licorice",Full-bodied,93,4.3,3
+2,38.99,"Altesino Brunello di Montalcino, 2015",Altesino,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Concentrated,,"Violet, Cherry",Full-bodied,95,,0
+3,259.99,"Fontodi Flaccianello della Pieve, 2016",Fontodi,Italy,Tuscany,Toscana,Sangiovese,Fresh,,"Cherry, Black Currant, Violet",Full-bodied,100,4.5,2
+4,124.99,"Fontodi Vigna del Sorbo Gran Selezione, 2013",Fontodi,Italy,Tuscany,Chianti Classico,Sangiovese,Intense,,"Red Fruit, Black Fruit",Medium-bodied,96,,0
+0,99.99,"Fontodi Vigna del Sorbo Gran Selezione, 2011",Fontodi,Italy,Tuscany,Chianti Classico,Sangiovese,Intense,,"Red Berry, Black Cherry",Medium-bodied,94,,0
+1,269.97,"Gaja Brunello Rennina, 2011",Gaja,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Elegant,,"Floral, Berry, Tobacco",Medium-bodied,94,5,1
+2,129.99,"IL Poggione Brunello di Montalcino Riserva, 2015",IL Poggione,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Concentrated,,"Black Cherry, Plum",Full-bodied,97,,0
+3,99.97,"Booker Syrah Fracture Paso Robles, 2016",Booker,California,Central Coast,Paso Robles,Syrah/Shiraz,,,,,95,5,3
+4,48.99,"Gramercy Syrah, 2014",Gramercy,Washington,Columbia Valley,Walla Walla,Syrah/Shiraz,,,,,94,,0
+0,93.99,"Torbreck Descendant Shiraz, 2017",Torbreck,Australia,Barossa,,Syrah/Shiraz,Intense,,"Plum, Black Olive, Apricot",Full-bodied,96,5,1
+1,55.99,"Two Hands Shiraz Lily's Garden, 2017",Two Hands,Australia,McLaren Vale,,Syrah/Shiraz,Intense,,"Plum, Blackberry",Full-bodied,92,5,2
+2,89.97,"Booker Tempranillo Paso Robles, 2017",Booker,California,Central Coast,Paso Robles,Tempranillo,Intense,,"Black Plum, Cedar, Mineral",Medium-bodied,92,,0
+3,89.99,"Dominio del Pidio Ribera del Duero, 2014",Dominio del Pidio,Spain,Ribera del Duero,,Tempranillo,,,,,93,5,1
+4,154.99,"Emilio Moro Malleolus de Valderramiro Ribera del Duero Tempranillo, 2007",Emilio Moro,Spain,Ribera del Duero,,Tempranillo,Concentrated,,"Berry, Mocha, Oak",Full-bodied,96,,0
+0,54.99,"Perez Pascuas Vina Pedrosa Reserva """"La Navilla"""" Ribera del Duero, 2016",Perez Pascuas,Spain,Ribera del Duero,,Tempranillo,,,,,93,,0
+1,111.99,"Vega Sicilia Alion, 2014",Vega Sicilia,Spain,Ribera del Duero,,Tempranillo,,,,,94,,0
+2,99.99,"Vega Sicilia & Rothschild Macan, 2013",Vega Sicilia,Spain,Rioja,,Tempranillo,,14,,,93,,0
+3,32.99,"Turley Zinfandel Juvenile, 2019",Turley,California,,,Zinfandel,Concentrated,,"Black Raspberry, Kirsch, Spice",Full-bodied,92,4.4,5
+4,99.99,"Vineyard 29 Aida Zinfandel , 2018",Vineyard 29,California,Napa Valley,,Zinfandel,Elegant,,"Blackberry, Black Raspberry, Pepper",Medium-bodied,92,5,1
+0,299.99,"Daou Cabernet Sauvignon Soul of a Lion, 2017",Daou,California,Central Coast,Paso Robles,Cabernet Sauvignon,,,,,97,4.9,8
+1,219.99,"Darioush Signature Cabernet Sauvignon Napa, 2017",Darioush,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Espresso, Cedar",Full-bodied,92,4.4,10
+2,164.97,"David Arthur Cabernet Three Acre, 2016",David Arthur,California,Napa Valley,,Cabernet Sauvignon,,14.9,,,94,4,1
+3,89.99,"Davis Estates Cabernet Sauvignon, 2016",Davis Estates,California,Napa Valley,St. Helena,Cabernet Sauvignon,,,,,93,5,1
+4,329.97,"Dominus, 2015",Dominus,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Wild Berry, Blackberry, Lavender",Full-bodied,100,,0
+0,64.99,"Bruno Giacosa Barbera d'Alba Falletto di Serralunga, 2014",Bruno Giacosa,Italy,Piedmont,Barbera d'Alba,Barbera,,,,,91,,0
+1,64.99,"Chateau Dalem Fronsac, 2012",Chateau Dalem,France,Bordeaux,Fronsac/Canon Fronsac,Bordeaux Blend,Crisp,13.5,"Anise, Red Berry",Medium-bodied,90,3.9,10
+2,79.99,"Chateau d'Armailhac Pauillac, 2012",Chateau d'Armailhac,France,Bordeaux,Pauillac,Bordeaux Blend,Elegant,13.5,"Blackberry, Plum",Medium-bodied,91,5,2
+3,194.99,"Chateau Garraud Lalande de Pomerol, 2016",Chateau Garraud,France,Bordeaux,Lalande-de-Pomerol,Bordeaux Blend,Elegant,14,"Blackberry, Plum",Full-bodied,90,3.8,10
+4,59.99,"Chateau La Cabanne Pomerol, 2014",Chateau La Cabanne,France,Bordeaux,Pomerol,Bordeaux Blend,Intense,14.5,"Blackberry, Red Berry, Cedar",Full-bodied,91,2,1
+0,84.99,"Chateau La Lagune Haut Medoc, 2016",Chateau La Lagune,France,Bordeaux,Haut-Medoc,Bordeaux Blend,Intense,13,"Blueberry, Licorice",Medium-bodied,92,,0
+1,89.99,"Chateau La Lagune Haut Medoc, 2010",Chateau La Lagune,France,Bordeaux,Haut-Medoc,Bordeaux Blend,Concentrated,13,"Black Fruit, Dried Cherry",Full-bodied,94,,0
+2,54.99,"Chateau Labegorce Margaux, 2016",Chateau Labegorce,France,Bordeaux,Margaux,Bordeaux Blend,Intense,13.5,"Blackberry, Black Currant",Full-bodied,93,4.5,2
+3,29.99,"Chateau Lamarque Haut Medoc, 2016",Chateau de Lamarque,France,Bordeaux,Haut-Medoc,Bordeaux Blend,Intense,14,"Raspberry, Black Cherry",Full-bodied,93,4.4,8
+4,159.99,"Chateau Landat Haut Medoc, 2015",Chateau Landat,France,Bordeaux,Haut-Medoc,Bordeaux Blend,Elegant,13,"Vanilla, Spice",Medium-bodied,90,4,21
+0,21.99,"Chateau Landat Haut Medoc, 2015",Chateau Landat,France,Bordeaux,Haut-Medoc,Bordeaux Blend,Elegant,13,"Vanilla, Spice",Medium-bodied,90,3.9,20
+1,379.99,"Chateau Pape Clement Pessac, 2005",Chateau Pape Clement,France,Bordeaux,Pessac-Leognan,Bordeaux Blend,Intense,13.5,"Plum, Licorice",Full-bodied,98,5,1
+2,239.99,"Chateau Pichon Baron Pauillac, 2015",Chateau Pichon Baron,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,13,"Cassis, Plum",Full-bodied,97,5,1
+3,199.99,"Clos Fourtet St Emilion, 2018",Clos Fourtet,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,14.5,"Cherry, Raspberry, Oak",Full-bodied,97,,0
+4,159.99,"Kenzo Estate Rindo Flagship Red, 2018",Kenzo,California,Napa Valley,,Bordeaux Blend,,,,,93,,0
+0,74.99,"Mauro Molino Barolo Conca, 2015",Mauro Molino,Italy,Piedmont,Barolo,Bordeaux Blend,,14,,,94,,0
+1,329.97,"Pavillon Rouge du Chateau Margaux, 2016",Pavillon Rouge du Chateau Margaux,France,Bordeaux,Margaux,Bordeaux Blend,Concentrated,13,"Black Fruit, Plum",Full-bodied,93,,0
+2,299.99,"Tua Rita Redigraffi, 2008",Tua Rita,Italy,Tuscany,Toscana,Bordeaux Blend,Elegant,,"Berry, Biscuit",Medium-bodied,96,,0
+3,369.97,"Accendo Cellars Cabernet Sauvignon Napa Valley, 2016",Accendo Cellars,California,Napa Valley,,Cabernet Sauvignon,,,,,98,,0
+4,124.99,"ADAMVS Cabernet Sauvignon TERES, 2013",Adamvs,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,,,,,92,5,1
+0,199.99,"Amici Cabernet Sauvignon Beckstoffer Missouri Hopper, 2016",Amici,California,Napa Valley,Oakville,Cabernet Sauvignon,,14.6,,,99,,0
+1,149.98,"Amici Cabernet Sauvignon Spring Mountain, 2016",Amici,California,Napa Valley,Spring Mountain,Cabernet Sauvignon,Elegant,14.9,"Clove, Raspberry",Full-bodied,97,4.2,10
+2,94.99,"Antica Cabernet Sauvignon Townsend Napa Valley, 2014",Antica,California,Napa Valley,,Cabernet Sauvignon,,14.8,,,90,,0
+3,189.99,"Baldacci Cabernet Brendas Vineyard, 2010",Baldacci,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Intense,14.5,"Black Cherry, Mocha",Full-bodied,95,,0
+4,399.97,"Barnett Cabernet Rattlesnake, 2014",Barnett,California,Napa Valley,,Cabernet Sauvignon,Elegant,14.5,"Black Currant, Coffee",Full-bodied,95,4.5,4
+0,179.99,"Barnett Cabernet Sauvignon Spring Mountain, 2014",Barnett,California,Napa Valley,Spring Mountain,Cabernet Sauvignon,Elegant,14.6,"Cassis, Chocolate, Earth",Full-bodied,94,5,7
+1,249.99,"Beau Vigne Guest Cottage Cabernet Napa, 2017",Beau Vigne,California,Napa Valley,,Cabernet Sauvignon,Elegant,15.3,"Black Currant, Cassis",Full-bodied,96,,0
+2,299.99,"Bevan Red EE Oakville, 2013",Bevan cellars,California,Napa Valley,Oakville,Cabernet Sauvignon,Intense,15.2,"Blackberry, Chocolate",,97,5,1
+3,369.99,"BRAND Napa Valley Cabernet , 2016",Brand Napa Valley,California,Napa Valley,,Cabernet Sauvignon,Concentrated,15.3,"Cassis, Spice, Chocolate",Full-bodied,96,5,1
+4,159.97,"Cakebread Cabernet Sauvignon Benchland, 2016",Cakebread,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Berry, Plum, Cocoa",Full-bodied,95,,0
+0,159.99,"Crown Point Estate Red Happy Canyon, 2014",Crown Point,California,Santa Barbara,,Cabernet Sauvignon,,,,,94,2,1
+1,249.97,"Dana Estate ONDA Cabernet Sauvignon Napa, 2010",Dana Estate,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Blackberry, Blueberry, Chocolate",Full-bodied,92,,0
+2,174.99,"Dancing Hares Red Blend Napa, 2016",Dancing Hares,California,Napa Valley,,Cabernet Sauvignon,,,,,97,,0
+3,429.99,"Diamond Creek Red Rock Cabernet, 2018",Diamond Creek,California,Napa Valley,Diamond Mountain,Cabernet Sauvignon,Concentrated,,"Cassis, Berry, Cedar",Full-bodied,98,5,1
+4,199.99,"Figgins Estate Red Walla Walla Valley, 2013",Figgins,Washington,Columbia Valley,Walla Walla,Cabernet Sauvignon,Elegant,,"Cassis, Blueberry, Raspberry",Full-bodied,94,4.9,8
+0,229.97,"Frank Family Cabernet Reserve Rutherford, 2016",Frank Family,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Black Cherry, Blueberry, Spice",Full-bodied,93,4.8,8
+1,599.99,"Futo Cabernet Oakville, 2013",Futo,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Blueberry, Blackberry, Floral",Full-bodied,98,,0
+2,289.97,"Gaja Cabernet Darmagi, 2016",Gaja,Italy,Piedmont,Langhe,Cabernet Sauvignon,Concentrated,,"Cassis, Spice, Cedar",Full-bodied,95,,0
+3,169.99,"Gallica Oakville Cabernet Sauvignon, 2014",Gallica,California,Napa Valley,Oakville,Cabernet Sauvignon,,,,,94,,0
+4,149.99,"Gemstone Cabernet Estate, 2008",Gemstone,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Blackberry, Licorice",Medium-bodied,94,,0
+0,39.99,"Gordon Estate Reserve Cabernet Sauvignon, 2014",Gordon Estate,Washington,Columbia Valley,,Cabernet Sauvignon,Elegant,13.8,"Cherry, Spice",Medium-bodied,91,3.7,6
+1,174.99,"Hedges Red Mountain Blend, 2013",Hedges,Washington,Columbia Valley,Red Mountain,Cabernet Sauvignon,,,,,90,4.4,7
+2,219.99,"Honig Cabernet Sauvignon Napa, 2017",Honig,California,,,Cabernet Sauvignon,Intense,,"Black Currant, Mocha, Oak",Full-bodied,92,4.8,56
+3,619.99,"Hourglass Blueline Cabernet, 2013",Hourglass,California,Napa Valley,,Cabernet Sauvignon,,,,,94,1,1
+4,55.99,"K Vintners Cabernet Roma, 2014",K Vintners,Washington,Columbia Valley,Walla Walla,Cabernet Sauvignon,,14.5,,,93,,0
+0,549.97,"Kapcsandy Cabernet Sauvignon Grand Vin Napa, 2009",Kapcsandy,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Cassis, Clove",Full-bodied,98,,0
+1,899.97,"Kathryn Hall Cabernet Napa, 2017",Hall,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Cassis, Cherry, Cedar",Full-bodied,96,4.5,17
+2,179.99,"Klipsun Vineyard Cabernet, 2017",Klipsun,Washington,Columbia Valley,Red Mountain,Cabernet Sauvignon,,,,,94,,0
+3,93.99,"Kobalt Cabernet Napa, 2011",Kobalt,California,Napa Valley,,Cabernet Sauvignon,,,,,92,,0
+4,199.99,"Krupp Brothers Cabernet Stagecoach, 2016",Krupp Bros,California,Napa Valley,,Cabernet Sauvignon,,,,,98,,0
+0,449.97,"Lokoya Cabernet Diamond Mountain, 2008",Lokoya,California,Napa Valley,Diamond Mountain,Cabernet Sauvignon,Concentrated,,"Black Cherry, Mocha",Full-bodied,92,,0
+1,199.99,"M By Michael Mondavi, 2015",M By Michael Mondavi,California,,,Cabernet Sauvignon,,,,,95,,0
+2,169.99,"Merus Cabernet, 2013",Merus,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Cassis, Floral, Smoke",Full-bodied,93,5,1
+3,499.99,"Nickel & Nickel Cabernet Sauvignon C.C. Ranch, 2015",Nickel & Nickel,California,Napa Valley,,Cabernet Sauvignon,Intense,,Cherry,Full-bodied,95,4.5,13
+4,169.97,"Odette Estate Cabernet Sauvignon, 2016",Odette,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,,,,,95,,0
+0,229.99,"Pahlmeyer Proprietary Red 30th Anniversary, 2016",Pahlmeyer,California,Napa Valley,,Cabernet Sauvignon,Elegant,15.1,"Blackberry, Black Currant, Lavender",Full-bodied,96,5,1
+1,399.99,"Roy Estate Cabernet Sauvignon Napa, 2012",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Blackberry, Dark Chocolate",Full-bodied,95,,0
+2,589.99,"Roy Estate Cabernet Sauvignon Napa, 2014",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Black Cherry, Black Raspberry, Black Plum",Full-bodied,95,4.5,2
+3,"1,149.99","Screaming Eagle Second Flight Red Napa, 2011",Screaming Eagle,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Black Currant, Blackberry, Boysenberry",,94,,0
+4,73.99,"Seavey Caravina Cabernet Sauvignon Napa Valley, 2015",Seavey,California,Napa Valley,,Cabernet Sauvignon,,,,,91,,0
+0,799.97,"Shafer Cabernet Hillside Select, 2016",Shafer,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Concentrated,,"Cassis, Mocha, Cedar",Full-bodied,100,5,1
+1,129.99,"Sheridan L'Orage Yakima, 2016",Sheridan Vineyard,Washington,Yakima Valley,,Cabernet Sauvignon,Intense,14.1,"Fig, Vanilla",Full-bodied,92,4.4,21
+2,189.99,"Signorello Padrone Proprietary Red, 2016",Signorello,California,Napa Valley,,Cabernet Sauvignon,,,,,95,5,1
+3,189.99,"Skipstone Cabernet Sauvignon Oliver's Blend, 2016",Skipstone,California,,,Cabernet Sauvignon,,,,,96,,0
+4,169.99,"Vineyard 29 Ceanda Cabernet Sauvignon, 2018",Vineyard 29,California,Napa Valley,St. Helena,Cabernet Sauvignon,Intense,,"Plum, Cassis, Herb",Medium-bodied,93,,0
+0,679.99,"Dal Forno Romano Amarone della Valpolicella DOCG, 2009",Dal Forno,Italy,Veneto,Valpolicella,Corvina,Intense,,"Pepper, Black Fruit",Full-bodied,99,,0
+1,54.99,"Andre Brunel Les Cailloux Chateauneuf-du-Pape Rouge, 2016",Andre Brunel,France,Rhone,Chateauneuf-du-Pape,Grenache,Elegant,,"Berry, Black Currant",Full-bodied,97,,0
+2,119.99,"Achaval Ferrer Malbec Bella Vista, 2013",Achaval Ferrer,Argentina,Mendoza,Lujan de Cuyo,Malbec,Elegant,13.5,"Blackberry, Spice",Full-bodied,95,,0
+3,139.99,"Bodega Colome Altura Maxima Malbec, 2015",Bodega Colome,Argentina,,,Malbec,Concentrated,14.9,"Blackberry, Cherry",Full-bodied,95,5,1
+4,249.99,"Blankiet Rive Droite Napa, 2015",Blankiet Estate,California,Napa Valley,Yountville,Merlot,Intense,14.9,"Chocolate, Plum",Full-bodied,98,3,1
+0,194.99,"Aldo Conterno Barolo Colonello, 2009",Aldo Conterno,Italy,Piedmont,Barolo,Nebbiolo,Elegant,,"Berry, Mineral, Rose",Full-bodied,95,,0
+1,229.99,"Marchesi di Barolo Barolo Cannubi, 2013",Marchesi di Barolo,Italy,Piedmont,Barolo,Nebbiolo,,,,,93,,0
+2,99.99,"Massolino Barolo Parussi, 2011",Massolino,Italy,Piedmont,Barolo,Nebbiolo,,,,,93,,0
+3,189.99,"Pio Cesare Barolo Ornato, 2012",Pio Cesare,Italy,Piedmont,Barolo,Nebbiolo,Concentrated,,"Rose, Berry, Oak",Full-bodied,92,,0
+4,99.99,"Prunotto Barolo Bussia, 2009",Prunotto,Italy,Piedmont,Barolo,Nebbiolo,Concentrated,,"Berry, Floral",Full-bodied,96,,0
+0,59.99,"Sandrone Nebbiolo d'Alba Valmaggiore, 2018",Sandrone,Italy,Piedmont,,Nebbiolo,,,,,94,5,1
+1,94.99,"Escarpment Kupe Martinborough Pinot Noir Single Vineyard, 2018",Kupe,New Zealand,Martinborough,,Pinot Noir,,,,,94,3,2
+2,469.99,"Jadot Bonnes-Mares Grand Cru, 2018",Louis Jadot,France,Burgundy,,Pinot Noir,Elegant,,"Dark Berry, Dark Chocolate, Rose",Full-bodied,95,,0
+3,144.99,"Jadot Chambolle Musigny Fuees, 2018",Louis Jadot,France,Burgundy,Gevrey-Chambertin,Pinot Noir,Elegant,,"Raspberry, Asian Spice, Cherry",Medium-bodied,94,,0
+4,144.99,"Louis Jadot Corton-Pougets Grand Cru, 2018",Louis Jadot,France,Burgundy,Aloxe-Corton,Pinot Noir,Elegant,,"Berry, Plum, Licorice",Full-bodied,95,,0
+0,69.99,"Migration Pinot Noir Dutton Ranch Russian River Valley, 2015",Duckhorn,California,Sonoma County,Russian River Valley,Pinot Noir,Concentrated,,"Red Fruit, Cinnamon, Earth",Medium-bodied,92,5,1
+1,69.99,"Resonance Pinot Noir Yamhill Carlton, 2017",Resonance,Oregon,Willamette Valley,Yamhill-Carlton,Pinot Noir,,,,,92,,0
+2,63.99,"Siduri Pinot Noir Santa Lucia Highlands Pisoni, 2014",Siduri,California,Monterey,Santa Lucia Highlands,Pinot Noir,,,,,90,,0
+3,64.99,"The Hilt Pinot Noir The Vanguard Santa Rita Hills, 2013",Jonata,California,Santa Barbara,Santa Rita Hills,Pinot Noir,,,,,91,,0
+4,65.99,"Winderlea Pinot Noir Winderlea Vineyard Dundee Hills, 2008",Winderlea,Oregon,Willamette Valley,,Pinot Noir,Concentrated,13,"Cherry, Spice",Medium-bodied,91,3,2
+0,29.99,"Baronia del Montsant Clos d'Englora AV14, 2005",Cellers Baronia del Montsant,Spain,Montsant,,Red Blend,Intense,14,"Blueberry, Black Raspberry",Full-bodied,91,4.3,10
+1,119.99,"Ferrer Bobet Priorat Seleccio Especial, 2012",Ferrer Bobet,Spain,Priorat,,Red Blend,Intense,15,"Black Fruit, Oak",Full-bodied,95,3.5,2
+2,199.99,"IL Poggione Brunello Montalcino, 2012",IL Poggione,Italy,Tuscany,Brunello di Montalcino,Red Blend,Elegant,,"Cherry, Spice, Cedar",Medium-bodied,95,5,4
+3,89.99,"Mvemve Raats MR de Compostella, 2016",Raats Family Wines,South Africa,Stellenbosch,,Red Blend,,,,,92,,0
+4,52.99,"Quinta das Carvalhas Tinta Francisca, 2016",Quinta das Carvalhas,Portugal,Douro,,Red Blend,Elegant,13,"Black Fruit, Chocolate",Full-bodied,92,2,1
+0,89.99,"Secret Indulgence Secret Blend, 2016",Secret Indulgence,California,Napa Valley,,Red Blend,,,,,95,,0
+1,79.99,"Bosquet des Papes Chante Merle Vieilles Vignes, 2009",Bosquet Des Papes,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,93,5,1
+2,269.97,"Chapoutier Ermitage Les Greffieux, 2017",Chapoutier,France,Rhone,Hermitage,Rhone Blend,,,,,97,,0
+3,109.97,"Delas Hermitage Domaine des Tourettes, 2016",Delas,France,Rhone,Crozes-Hermitage,Rhone Blend,Concentrated,,"Black Currant, Blackberry",Full-bodied,93,,0
+4,111.99,"Domaine de Beaurenard Chateauneuf-du-Pape Cuvee Boisrenard, 2010",Beaurenard,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,91,,0
+0,34.99,"Domaine Grand Veneur Lirac Sixte, 2011",Domaine Grand Veneur,France,Rhone,Lirac,Rhone Blend,Concentrated,15,"Blackberry, Spice",Full-bodied,90,,0
+1,104.99,"Maison Denuziere Hermitage, 2015",Maison Denuziere,France,Rhone,Hermitage,Rhone Blend,Fresh,13,"Earth, Black Fruit, Pepper",Full-bodied,92,5,1
+2,189.99,"Vieux Telegraphe Chateauneuf-du-Pape Rouge, 2018",Vieux Telegraphe,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,Intense,,"Black Fruit, Spice",Full-bodied,96,4.1,9
+3,114.99,"Biondi Santi Rosso di Montalcino DOC, 2017",Biondi,Italy,Tuscany,Rosso di Montalcino,Sangiovese,Concentrated,,"Vanilla, Spice",Medium-bodied,94,,0
+4,199.99,"Canalicchio Sopra Brunello di Montalcino La Casaccia, 2015",Canalicchio Sopra,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Concentrated,,"Blueberry, Raspberry, Lavender",Full-bodied,98,,0
+0,519.99,"Castellare I Sodi di San Niccolo, 2014",Castellare,Italy,Tuscany,Toscana,Sangiovese,Elegant,,"Berry, Cedar",Full-bodied,94,,0
+1,39.99,"Fontodi Chianti Classico, 2013",Fontodi,Italy,Tuscany,Chianti Classico,Sangiovese,,,,,92,5,2
+2,279.99,"Fontodi Flaccianello della Pieve, 2013",Fontodi,Italy,Tuscany,Toscana,Sangiovese,Elegant,,"Wild Berry, Mineral, Spice",Full-bodied,98,5,2
+3,119.99,"Fontodi Vin Santo Chianti Classico, 2007",Fontodi,Italy,Tuscany,Chianti Classico,Sangiovese,Intense,,"Caramel, Raisin",Full-bodied,96,4,1
+4,89.99,"Fuligni Brunello di Montalcino, 2014",Fuligni,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Concentrated,,"Cherry, Plum, Cedar",Full-bodied,92,4,1
+0,254.97,"Gaja Ca' Marcanda Camarcanda, 2016",Gaja,Italy,Tuscany,Toscana,Sangiovese,Concentrated,,"Berry, Cedar, Clove",Full-bodied,97,,0
+1,399.99,"Gaja Ca' Marcanda Camarcanda, 2016",Gaja,Italy,Tuscany,Toscana,Sangiovese,Elegant,,"Cherry, Chocolate",Full-bodied,97,,0
+2,99.99,"Il Marroneto Brunello di Montalcino, 2015",Il Marroneto,Italy,Tuscany,Brunello di Montalcino,Sangiovese,,,,,96,,0
+3,34.99,"Petrolo Valdarno di Sopra Torrione, 2017",Petrolo,Italy,Tuscany,,Sangiovese,,,,,92,,0
+4,81.99,"Uccelliera Brunello di Montalcino, 2015",Uccelliera,Italy,Tuscany,Brunello di Montalcino,Sangiovese,,,,,97,,0
+0,63.99,"Gramercy Syrah The Deuce, 2014",Gramercy,Washington,Columbia Valley,Walla Walla,Syrah/Shiraz,,,,,94,,0
+1,819.99,"Henschke Shiraz Hill of Grace, 2010",Henschke,Australia,Eden Valley,,Syrah/Shiraz,Elegant,,"Blackberry, Dark Fruit",Full-bodied,99,,0
+2,299.99,"Hundred Acre Shiraz Deep Time, 2009",Hundred Acre,Australia,Barossa,,Syrah/Shiraz,,,"Dark Fruit, Spice",Full-bodied,94,,0
+3,119.99,"Melka Majestique Syrah Paderewski Vineyard Paso Robles, 2016",Melka,California,Central Coast,Paso Robles,Syrah/Shiraz,Concentrated,15.2,"Black Fruit, Herb, Spice",Full-bodied,93,,0
+4,64.97,"Pride Syrah, 2017",Pride,California,,,Syrah/Shiraz,,14.6,,,93,,0
+0,126.99,"Two Hands Shiraz Coach House Block, 2016",Two Hands,Australia,Barossa,,Syrah/Shiraz,,,,,95,,0
+1,249.97,"Artadi Rioja El Carretil, 2016",Artadi,Spain,Rioja,,Tempranillo,,14.5,,,97,5,1
+2,56.99,"Bodegas Los Astrales Ribera del Duero, 2014",Astrales,Spain,Ribera del Duero,,Tempranillo,,,,,92,5,1
+3,119.99,"Cune Real de Asua, 2016",Cune,Spain,Rioja,,Tempranillo,,14.2,,,93,,0
+4,25.99,"El Pedrosal Ribera Del Duero, 2014",El Pedrosal,Spain,Ribera del Duero,,Tempranillo,,14,,,92,,0
+0,239.97,"Carruades de Lafite Pauillac, 2008",Carruades de Lafite,France,Bordeaux,Pauillac,Bordeaux Blend,Elegant,12.5,"Blackberry, Currant",Medium-bodied,93,,0
+1,99.99,"Ch Giscours Margaux, 2012",Chateau Giscours,France,Bordeaux,Margaux,Bordeaux Blend,Elegant,13.5,"Raspberry, Blackberry",Medium-bodied,90,4.3,3
+2,"1,499.97","Chateau Ausone St Emilion, 2018",Chateau Ausone,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,13.5,"Black Cherry, Raspberry, Oak",Full-bodied,100,,0
+3,239.99,"Chateau Beau-Sejour Becot St Emilion, 2016",Chateau Beau-Sejour Becot,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Intense,13.5,"Raspberry, Black Fruit",Full-bodied,95,3.0,1
+4,229.99,"Chateau Calon Segur St Estephe, 2000",Chateau Calon Segur,France,Bordeaux,Saint-Estephe,Bordeaux Blend,Concentrated,14,"Berry, Spice",Full-bodied,94,,0
+0,129.99,"Chateau Canon La Gaffeliere St. Emilion, 2012",Chateau Canon la Gaffeliere,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,14.5,"Boysenberry, Blackberry",Full-bodied,93,,0
+1,599.97,"Chateau Cheval Blanc St Emilion, 2018",Chateau Cheval Blanc,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Intense,14,"Raspberry, Red Berry, Oak",Full-bodied,99,,0
+2,89.99,"Chateau Haut Bages Liberal Pauillac, 2010",Chateau Haut Bages Liberal,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,12.5,"Cassis, Black Fruit",Full-bodied,92,5.0,1
+3,59.99,"Chateau Haut Batailley Pauillac, 2012",Chateau Haut Batailley,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,13.5,"Cassis, Licorice",Medium-bodied,92,1.0,1
+4,"2,299.99","Chateau Lafite Rothschild Pauillac, 2018",Chateau Lafite Rothschild,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,12.5,"Cherry, Dark Berry, Oak",Full-bodied,100,,0
+0,"4,599.99","Chateau Lafite Rothschild Pauillac, 2018",Chateau Lafite Rothschild,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,12.5,"Cherry, Dark Berry, Oak",Full-bodied,100,,0
+1,"1,499.97","Chateau Latour Pauillac, 2003",Chateau Latour,France,Bordeaux,Pauillac,Bordeaux Blend,Elegant,12.5,"Blackberry, Currant",Full-bodied,100,,0
+2,"1,199.97","Chateau Margaux Margaux, 2003",Chateau Margaux,France,Bordeaux,Margaux,Bordeaux Blend,Concentrated,12.5,"Cassis, Mineral",Full-bodied,99,5.0,6
+3,629.97,"Chateau Mouton Rothschild Pauillac, 2003",Chateau Mouton Rothschild,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,13,"Blackberry, Mineral",Full-bodied,95,,0
+4,499.99,"Chateau Pichon Baron Pauillac, 2016",Chateau Pichon Baron,France,Bordeaux,Pauillac,Bordeaux Blend,Elegant,13,"Dark Fruit, Truffle, Sandalwood",Full-bodied,97,4.7,3
+0,999.99,"Chateau Pichon Baron Pauillac, 2016",Chateau Pichon Baron,France,Bordeaux,Pauillac,Bordeaux Blend,Elegant,13,"Dark Fruit, Truffle, Sandalwood",Full-bodied,97,4.7,3
+1,74.99,"Duo de La Conseillante , 2015",Chateau La Conseillante,France,Bordeaux,Pomerol,Bordeaux Blend,Elegant,14.5,"Blueberry, Vanilla",Medium-bodied,90,,0
+2,399.97,"La Mondotte St Emilion, 2010",La Mondotte,France,Bordeaux,Saint-Emilion,Bordeaux Blend,,15,,,99,,0
+3,299.97,"Les Forts De Latour Pauillac, 2006",Les Forts De Latour,France,Bordeaux,Pauillac,Bordeaux Blend,Elegant,14,"Cassis, Cedar",Full-bodied,92,,0
+4,74.99,"Mauro Molino Barolo Conca, 2015",Mauro Molino,Italy,Piedmont,Barolo,Bordeaux Blend,,14,,,94,,0
+0,144.99,"Le Macchiole Paleo Rosso, 2017",Le Macchiole,Italy,Tuscany,,Cabernet Franc,Concentrated,,"Plum, Red Berry, Rose",Full-bodied,97,,0
+1,179.99,"A Perfect Season Cabernet Sauvignon, 2014",A Perfect Season,California,Sonoma County,Knights Valley,Cabernet Sauvignon,Intense,,"Cassis, Blackberry, Chocolate",Full-bodied,95,,0
+2,199.99,"Aloft Cabernet Howell Mountain, 2013",Aloft Wine,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,,,,,96,,0
+3,249.99,"Amici Cabernet Sauvignon Beckstoffer To-Kalon, 2018",Amici,California,Napa Valley,Oakville,Cabernet Sauvignon,Concentrated,14.9,"Dark Berry, Nutmeg",Full-bodied,97,5.0,1
+4,199.99,"Amici Cabernet Sauvignon Oakville Ranch, 2018",Amici,California,Napa Valley,Oakville,Cabernet Sauvignon,Intense,14.5,"Dark Fruit, Cinnamon, Spice",Full-bodied,96,,0
+0,199.99,"Arkenstone Red Obsidian Howell Mountain, 2014",Arkenstone,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,,,,,94,,0
+1,179.99,"Baldacci Cabernet Brendas Vineyard, 2011",Baldacci,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,,14.5,,,90,,0
+2,159.99,"Beckstoffer Cabernet Sauvignon Amulet, 2014",Beckstoffer,California,Napa Valley,,Cabernet Sauvignon,,,,,93,,0
+3,169.99,"Betz Cabernet Pere de Famille, 2011",Betz,Washington,Columbia Valley,,Cabernet Sauvignon,Elegant,,"Red Fruit, Black Cherry, Cinnamon",Full-bodied,95,,0
+4,269.99,"Blankiet Paradise Hill Red Estate Napa, 2013",Blankiet Estate,California,Napa Valley,Yountville,Cabernet Sauvignon,Intense,14.2,"Blackberry, Licorice",Full-bodied,98,2.0,1
+0,"1,899.99","Bryant Family Vineyard Cabernet Sauvignon Napa, 2017",Bryant Family,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Blackberry, Black Currant, Black Raspberry",Full-bodied,98,,0
+1,169.99,"Carter Cellars Cabernet Weitz Vineyard, 2017",Carter,California,Napa Valley,,Cabernet Sauvignon,,,,,93,,0
+2,149.97,"Cervantes Cabernet MMXVI Napa Valley, 2016",Cervantes Family Vineyards,California,Napa Valley,,Cabernet Sauvignon,,,,,96,,0
+3,739.99,"Colgin Cabernet Napa Tychson Hill, 2017",Colgin,California,Napa Valley,,Cabernet Sauvignon,,,,,98,,0
+4,649.99,"Colgin IX Napa Estate, 2016",Colgin,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Dark Fruit, Red Fruit",Full-bodied,100,5.0,1
+0,649.97,"Dominus, 2015",Dominus,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Wild Berry, Blackberry, Lavender",Full-bodied,100,,0
+1,239.99,"Don Melchor Cabernet Sauvignon, 2016",Concha Y Toro,Chile,,,Cabernet Sauvignon,Elegant,,"Cassis, Blackberry",Medium-bodied,94,4.0,3
+2,149.99,"Dunn Cabernet Howell Mountain, 2012",Dunn,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,Concentrated,,"Currant, Cedar",Full-bodied,95,,0
+3,599.99,"Frank Family Cabernet Napa, 2016",Frank Family,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Black Cherry, Espresso",Medium-bodied,90,4.7,61
+4,249.97,"Gaja Cabernet Darmagi, 2016",Gaja,Italy,Piedmont,Langhe,Cabernet Sauvignon,,,,,95,,0
+0,189.99,"Kamen Cabernet Sauvignon Kashmir Sonoma Valley, 2008",Kamen,California,Sonoma County,Sonoma Valley,Cabernet Sauvignon,,,,,91,,0
+1,199.99,"Kamen Cabernet Sauvignon, 2011",Kamen,California,,,Cabernet Sauvignon,,,,,92,,0
+2,"2,999.99","Kathryn Hall Cabernet Napa, 2016",Hall,California,Napa Valley,Rutherford,Cabernet Sauvignon,Concentrated,,"Cassis, Cherry, Cedar",Full-bodied,97,4.5,17
+3,219.99,"Ladera Cabernet Howell Mountain, 2013",Ladera,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,Concentrated,,"Cassis, Plum, Mineral",Full-bodied,91,4.6,7
+4,449.97,"Lokoya Cabernet Mt Veeder, 2014",Lokoya,California,Napa Valley,Mount Veeder,Cabernet Sauvignon,,,,,99,,0
+0,18.99,"Maipe Cabernet Reserve, 2013",Maipe,Argentina,Mendoza,,Cabernet Sauvignon,Intense,14,"Blackberry, Chocolate",Full-bodied,88,4.0,5
+1,89.98,"Melka CJ Cabernet Napa Valley, 2014",Melka,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Black Cherry, Raspberry, Oak",Full-bodied,94,5.0,3
+2,399.97,"Newton Cabernet Yountville Single Vineyard, 2014",Newton,California,Napa Valley,Yountville,Cabernet Sauvignon,Concentrated,,"Boysenberry, Blackberry, Plum",Full-bodied,95,,0
+3,599.97,"Opus One, 2005",Opus One,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Currant, Mineral, Cedar",Medium-bodied,95,,0
+4,799.97,"Paul Hobbs Cabernet Las Piedras, 2015",Paul Hobbs,California,Napa Valley,St. Helena,Cabernet Sauvignon,Intense,,"Black Cherry, Plum, Cedar",Full-bodied,98,,0
+0,659.99,"Ridge Montebello Cabernet, 2011",Ridge,California,Central Coast,Santa Cruz Mountains,Cabernet Sauvignon,Concentrated,,"Cassis, Mineral, Oak",Full-bodied,96,4.0,3
+1,559.99,"Roy Estate Cabernet Sauvignon Napa, 2015",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Black Currant, Blueberry",Full-bodied,96,5.0,1
+2,469.99,"Roy Estate Proprietary Red Napa, 2013",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.2,"Black Currant, Blueberry",Full-bodied,96,5.0,1
+3,"3,499.97","Scarecrow Cabernet Napa, 2014",Scarecrow,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Cassis, Blackberry, Boysenberry",,100,5.0,1
+4,479.99,"Schrader Cabernet Sauvignon Beckstoffer CCS, 2018",Schrader,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Black Currant, Blackberry, Cassis",Full-bodied,97,,0
+0,589.97,"Shafer Cabernet Hillside Select, 2007",Shafer,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,,,,,100,,0
+1,259.99,"Sheridan Cabernet Block One Yakima, 2011",Sheridan Vineyard,Washington,Yakima Valley,,Cabernet Sauvignon,Intense,14.1,"Chocolate, Cassis",Full-bodied,96,3.6,8
+2,149.99,"Sheridan Cabernet Block One Yakima, 2013",Sheridan Vineyard,Washington,Yakima Valley,,Cabernet Sauvignon,Intense,14.1,"Chocolate, Cassis",Full-bodied,97,5.0,1
+3,159.99,"Vasse Felix Cabernet Tom Cullity, 2016",Vasse,Australia,,,Cabernet Sauvignon,,,,,95,,0
+4,229.97,"Vina Cobos Volturno, 2009",Vina Cobos,Argentina,Mendoza,,Cabernet Sauvignon,,,,,98,,0
+0,109.99,"Woodward Canyon Cabernet Artist, 2016",Woodward Canyon,Washington,Columbia Valley,,Cabernet Sauvignon,Intense,,"Cherry, Currant",Full-bodied,92,5.0,1
+1,129.99,"Espectacle del Montsant, 2015",Espectacle del Montsant,Spain,Montsant,,Graciano,,,,,96,,0
+2,56.99,"Betz Besoleil Grenache, 2011",Betz,Washington,,,Grenache,Elegant,,"Cherry, Raspberry, Floral",Medium-bodied,91,,0
+3,119.99,"Pascual Toso Mendoza Magalena Toso, 2018",Pascual Toso,Argentina,,,Malbec,Concentrated,,"Berry, Black Currant, Cassis",Medium-bodied,93,,0
+4,79.99,"Hourglass Blueline Estate Merlot, 2019",Hourglass,California,Napa Valley,,Merlot,,,,,95,1.0,1
+0,274.99,"Le Macchiole Messorio, 2016",Le Macchiole,Italy,Tuscany,,Merlot,,,,,99,,0
+1,169.99,"Melka Merlot Mekerra Vineyard Knights Valley, 2015",Melka,California,Sonoma County,Knights Valley,Merlot,Concentrated,14.5,"Black Fruit, Black Raspberry, Red Fruit",Full-bodied,95,,0
+2,169.99,"Ceretto Barolo Prapo, 2014",Ceretto,Italy,Piedmont,Barolo,Nebbiolo,,,,,93,,0
+3,149.99,"La Spinetta Barbaresco Valeirano, 2009",La Spinetta,Italy,Piedmont,Barbaresco,Nebbiolo,,,,,93,,0
+4,109.99,"Parusso Barolo Bussia, 2015",Parusso,Italy,Piedmont,Barolo,Nebbiolo,,,,,94,,0
+0,189.99,"Pio Cesare Barbaresco Il Bricco, 2012",Pio Cesare,Italy,Piedmont,Barbaresco,Nebbiolo,Concentrated,,"Berry, Chocolate, Cassis",Medium-bodied,90,4.0,1
+1,149.99,"Sandrone Barolo Cannubi Boschis, 2012",Sandrone,Italy,Piedmont,Barolo,Nebbiolo,Elegant,,"Licorice, Tobacco",Full-bodied,94,5.0,1
+2,139.99,"Sandrone Barolo le Vigne, 2009",Sandrone,Italy,Piedmont,Barolo,Nebbiolo,Concentrated,,"Floral, Spice",Full-bodied,95,,0
+3,159.99,"Vietti Barolo Lazzarito, 2013",Vietti,Italy,Piedmont,Barolo,Nebbiolo,,,,,96,,0
+4,74.99,"Bergstrom Pinot Noir Gregory Ranch, 2015",Bergstrom,Oregon,Willamette Valley,Yamhill-Carlton,Pinot Noir,Elegant,13.5,"Black Raspberry, Cherry",Full-bodied,93,,0
+0,75.99,"Calera Pinot Noir Reed, 2016",Calera,California,Central Coast,,Pinot Noir,Elegant,,"Raspberry, Chocolate",Medium-bodied,93,,0
+1,104.99,"DuMOL Pinot Noir Finn Russian River Valley, 2013",DuMOL,California,Sonoma County,Russian River Valley,Pinot Noir,Elegant,,"Red Fruit, Berry",Medium-bodied,92,,0
+2,54.99,"Martin Ray Pinot Noir Hallberg Ranch Green Valley Russian River Valley, 2017",Martin Ray,California,Sonoma County,Green Valley,Pinot Noir,Intense,14.5,"Cherry, Raspberry, Nutmeg",Medium-bodied,91,5.0,1
+3,59.99,"Peay Pinot Noir Pomarium, 2018",Peay,California,Sonoma County,Sonoma Coast,Pinot Noir,,,,,96,4.0,1
+4,389.99,"Alvaro Palacios Quinon de Valmira Rioja, 2017",Alvaro Palacios,Spain,Rioja,,Red Blend,,,,,96,,0
+0,48.97,"Cote Bonneville Carriage Dubrul, 2011",Cote Bonneville,Washington,Yakima Valley,,Red Blend,,,,,90,,0
+1,199.99,"Hickinbotham The Peake Cab/Shiraz, 2015",Hickinbotham,Australia,,,Red Blend,,,,,97,,0
+2,99.99,"Juslyn Perry's Blend, 2012",Juslyn,California,Napa Valley,,Red Blend,,,,,95,,0
+3,63.99,"St Cosme Chateauneuf du Pape Rouge, 2017",Saint Cosme,France,Rhone,Chateauneuf-du-Pape,Red Blend,,,,,96,,0
+4,499.97,"Chapoutier Ermitage Le Pavillon, 2017",Chapoutier,France,Rhone,Hermitage,Rhone Blend,,,,,100,,0
+0,104.97,"Delas Cote Rotie Seigneur de Maugrion, 2016",Delas,France,Rhone,Cote Rotie,Rhone Blend,Intense,,"Black Fruit, Herb, Black Currant",Full-bodied,93,,0
+1,64.97,"Delas Crozes Hermitage Le Clos, 2014",Delas,France,Rhone,Crozes-Hermitage,Rhone Blend,,,,,90,,0
+2,64.97,"Delas Crozes Hermitage Le Clos, 2016",Delas,France,Rhone,Crozes-Hermitage,Rhone Blend,,,,,92,,0
+3,93.99,"Delas Hermitage Domaine des Tourettes, 2013",Delas,France,Rhone,Hermitage,Rhone Blend,,,,,96,,0
+4,99.99,"Delas Hermitage Domaine des Tourettes, 2014",Delas,France,Rhone,Crozes-Hermitage,Rhone Blend,Concentrated,,"Black Fruit, Herb, Mineral",Full-bodied,92,,0
+0,249.97,"Delas Hermitage Les Bessards, 2016",Delas,France,Rhone,Hermitage,Rhone Blend,,,,,94,,0
+1,199.97,"Domaine du Pegau Chateauneuf-du-Pape Cuvee Reserve, 2017",Domaine du Pegau,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,95,5.0,4
+2,499.99,"Domaine du Pegau Chateauneuf-du-Pape Cuvee Reserve, 2012",Domaine du Pegau,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,94,5.0,4
+3,449.99,"Guigal Cote Rotie La Landonne, 2012",E. Guigal,France,Rhone,Cote Rotie,Rhone Blend,Concentrated,,"Blackberry, Chocolate, Smoke",Full-bodied,99,,0
+4,449.99,"Guigal Cote Rotie La Turque, 2012",E. Guigal,France,Rhone,Cote Rotie,Rhone Blend,Elegant,,"Blackberry, Floral, Chocolate",Full-bodied,100,,0
+0,399.99,"Guigal Cote Rotie La Turque, 2014",E. Guigal,France,Rhone,Cote Rotie,Rhone Blend,,,,,96,,0
+1,59.99,"Guigal St Joseph Lieu Dit Rouge, 2017",E. Guigal,France,Rhone,Saint-Joseph,Rhone Blend,,,,,93,,0
+2,109.99,"Jaboulet Cornas Domaine St. Pierre, 2011",Jaboulet,France,Rhone,Cornas,Rhone Blend,,,,,93,,0
+3,299.99,"Jaboulet Hermitage La Chapelle, 2013",Jaboulet,France,Rhone,Hermitage,Rhone Blend,Concentrated,,"Berry, Mineral, Mocha",Full-bodied,94,,0
+4,549.97,"Saxum Red James Berry Vineyard, 2011",Saxum,California,Central Coast,Paso Robles,Rhone Blend,Intense,,"Berry, Smoke, Earth",Full-bodied,96,,0
+0,279.97,"Canalicchio Sopra Brunello di Montalcino Riserva, 2012",Canalicchio Sopra,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Intense,,"Berry, Dark Fruit, Licorice",Full-bodied,95,,0
+1,39.99,"Canalicchio Sopra Rosso , 2017",Canalicchio Sopra,Italy,Tuscany,Rosso di Montalcino,Sangiovese,,,,,91,,0
+2,104.99,"Castiglion Campo del Drago Brunello, 2013",Castiglion del Bosco,Italy,Tuscany,Brunello di Montalcino,Sangiovese,,,,,94,,0
+3,169.99,"Fontodi Vigna del Sorbo Gran Selezione, 2013",Fontodi,Italy,Tuscany,Chianti Classico,Sangiovese,Intense,,"Red Fruit, Black Fruit",Medium-bodied,96,,0
+0,399.99,"Gaja Ca' Marcanda Camarcanda, 2016",Gaja,Italy,Tuscany,Toscana,Sangiovese,Elegant,,"Cherry, Chocolate",Full-bodied,97,,0
+0,29.99,"I Greppi Greppicante Bolgheri, 2012",I Greppi,Italy,Tuscany,Toscana,Sangiovese,Intense,13,"Blueberry, Toast",Full-bodied,89,4.0,2
+1,249.99,"Le Potazzine Brunello Montalcino, 2015",Le Potazzine,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Intense,,"Cherry, Spice",Full-bodied,97,5.0,1
+2,54.99,"Sette Ponti Poggio al Lupo, 2018",Sette Ponti,Italy,Tuscany,,Sangiovese,Intense,,"Violet, Berry, Cedar",Full-bodied,92,,0
+3,139.99,"Silvio Nardi Poggio Doria Brunello di Montalcino, 2015",Silvio Nardi,Italy,Tuscany,Brunello di Montalcino,Sangiovese,,,,,96,,0
+4,379.97,"Alban Syrah Reva Estate, 2006",Alban,California,,,Syrah/Shiraz,,,,,100,,0
+0,57.99,"Buty Rediviva of the Stones Walla Walla, 2012",Buty,Washington,Columbia Valley,,Syrah/Shiraz,,14,,,92,,0
+1,99.99,"Chapoutier Crozes-Hermitage Les Varonniers, 2018",Chapoutier,France,Rhone,Crozes-Hermitage,Syrah/Shiraz,,,,,94,,0
+2,199.99,"Clarendon Hills Astralis, 2011",Clarendon Hills,Australia,,,Syrah/Shiraz,,,,,96,,0
+3,69.99,"Mitolo Savitar Shiraz, 2018",Mitolo,Australia,McLaren Vale,,Syrah/Shiraz,,,,,95,,0
+4,59.99,"Spring Valley Syrah Nina Lee, 2012",Spring Valley,Washington,Columbia Valley,Walla Walla,Syrah/Shiraz,,15,,,93,5.0,1
+0,129.99,"Yalumba Octavius Shiraz, 2014",Yalumba,Australia,Barossa,,Syrah/Shiraz,Intense,,"Blackberry, Boysenberry, Mocha",Full-bodied,93,,0
+1,119.97,"Artadi Rioja San Lazaro, 2016",Artadi,Spain,Rioja,,Tempranillo,,14.5,,,96,,0
+2,92.99,"Campo Eliseo Toro, 2005",Campo Eliseo,Spain,Toro,,Tempranillo,Elegant,,"Blackberry, Oak, Mocha",Full-bodied,91,,0
+3,24.99,"Finca Sobreno Toro Crianza, 2008",Finca Sobreno,Spain,Toro,,Tempranillo,Fresh,14.5,"Black Cherry, Oak",Medium-bodied,89,,0
+4,33.49,"Liberalia Toro Cuatro, 2013",Liberalia,Spain,Toro,,Tempranillo,Intense,14.5,"Blackberry, Licorice",Full-bodied,90,3.0,3
+0,89.99,"Melka CJ Cabernet Napa Valley, 2013",Melka,California,Napa Valley,,Cabernet Sauvignon,Elegant,14.5,"Black Currant, Tobacco",Full-bodied,94,3.5,2
+1,17.99,"Diosares Rioja Crianza, 2016",Diosares,Spain,Rioja,,Tempranillo,Concentrated,14.5,"Blackberry, Spice",Medium-bodied,91,4.2,65
+2,479.99,"Chateau Beau-Sejour Becot St Emilion, 2016",Chateau Beau-Sejour Becot,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Intense,13.5,"Raspberry, Black Fruit",Full-bodied,95,3.0,1
+3,61.99,"Chateau Beau-Sejour Becot St Emilion, 2016",Chateau Beau-Sejour Becot,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Intense,13.5,"Raspberry, Black Fruit",Full-bodied,95,3.0,1
+4,199.99,"Chateau Beau-Sejour Becot St Emilion, 2017",Chateau Beau-Sejour Becot,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,13.5,"Oak, Cherry, Raspberry",Full-bodied,96,,0
+0,399.99,"Chateau Beau-Sejour Becot St Emilion, 2017",Chateau Beau-Sejour Becot,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,13.5,"Oak, Cherry, Raspberry",Full-bodied,96,,0
+1,49.99,"Chateau de L'Estang Cotes de Castillon, 2009",Chateau de L'Estang,France,Bordeaux,Castillon/Cotes de Bordeaux,Bordeaux Blend,Concentrated,13,"Black Currant, Black Cherry",Medium-bodied,90,4.0,1
+2,99.99,"Chateau Du Tertre Margaux, 2010",Chateau du Tertre,France,Bordeaux,Margaux,Bordeaux Blend,Elegant,13,"Black Raspberry, Blackberry",Medium-bodied,93,4.5,2
+3,29.99,"Chateau Ferran Pessac, 2016",Chateau Ferran,France,Bordeaux,Pessac-Leognan,Bordeaux Blend,Concentrated,14,"Allspice, Allspice",Full-bodied,91,,0
+4,49.99,"Chateau Fombrauge St. Emilion, 2016",Chateau Fombrauge,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,14.5,"Black Fruit, Chocolate",Full-bodied,92,5.0,1
+0,44.99,"Chateau Fombrauge St. Emilion, 2017",Chateau Fombrauge,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Intense,14.5,"Red Berry, Black Cherry",Full-bodied,92,5.0,1
+1,289.99,"Chateau Haut Bailly Pessac, 2005",Chateau Haut Bailly,France,Bordeaux,Pessac-Leognan,Bordeaux Blend,Concentrated,13,"Blackberry, Earth, Spice",Full-bodied,96,,0
+2,399.99,"Chateau Haut Bailly Pessac, 2016",Chateau Haut Bailly,France,Bordeaux,Pessac-Leognan,Bordeaux Blend,Concentrated,13,"Black Currant, Fig",Full-bodied,98,,0
+3,89.99,"Chateau Labegorce Margaux, 2016",Chateau Labegorce,France,Bordeaux,Margaux,Bordeaux Blend,Intense,13.5,"Blackberry, Black Currant",Full-bodied,93,4.5,2
+4,49.99,"Chateau Malescot St Exupery Margaux, 2018",Chateau Malescot st Exupery,France,Bordeaux,Margaux,Bordeaux Blend,Concentrated,14.5,"Red Cherry, Fig, Oak",Full-bodied,95,5.0,1
+0,"1,799.99","Chateau Margaux Margaux, 2016",Chateau Margaux,France,Bordeaux,Margaux,Bordeaux Blend,Elegant,12.5,"Blackberry, Raspberry",Full-bodied,99,5.0,1
+1,129.97,"Chateau Pontet Canet Pauillac, 2006",Chateau Pontet Canet,France,Bordeaux,Pauillac,Bordeaux Blend,Concentrated,13.5,"Cassis, Smoke",Full-bodied,95,,0
+2,99.99,"Chateau Prieure Lichine Margaux, 2010",Chateau Prieure Lichine,France,Bordeaux,Margaux,Bordeaux Blend,Concentrated,14,"Blueberry, Currant",Full-bodied,92,,0
+3,49.99,"Chateau Quinault L'Enclos St. Emilion, 2010",Chateau Quinault L'Enclos,France,Bordeaux,Saint-Emilion,Bordeaux Blend,Concentrated,13,"Coffee, Toast",Full-bodied,91,4.0,4
+4,459.97,"Chateau Rauzan Segla Margaux, 2017",Chateau Rauzan Segla,France,Bordeaux,Margaux,Bordeaux Blend,Concentrated,13.5,"Raspberry, Red Cherry, Oak",Full-bodied,96,,0
+0,319.99,"Cos D'Estournel St Estephe, 2003",Chateau Cos D'Estournel,France,Bordeaux,Saint-Estephe,Bordeaux Blend,Concentrated,14,"Blackberry, Spice",Full-bodied,98,,0
+1,199.97,"Les Asteries St Emilion Grand Cru, 2009",Chateau Teyssier,France,Bordeaux,Saint-Emilion,Bordeaux Blend,,15,,,98,,0
+2,149.99,"Pagodes de Cos St Estephe, 2016",Pagodes de Cos,France,Bordeaux,Saint-Estephe,Bordeaux Blend,Concentrated,14,"Red Fruit, Leather",Full-bodied,92,4.0,1
+3,199.97,"Pavillon Rouge du Chateau Margaux, 2004",Pavillon Rouge du Chateau Margaux,France,Bordeaux,Margaux,Bordeaux Blend,Elegant,13,"Black Currant, Earth",Medium-bodied,89,,0
+4,359.97,"ADAMVS Cabernet Sauvignon Howell Mountain, 2016",Adamvs,California,Napa Valley,Howell Mountain,Cabernet Sauvignon,,,,,97,,0
+0,179.98,"Baldacci Cabernet Brendas Vineyard, 2013",Baldacci,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Concentrated,14.5,"Red Currant, Dark Chocolate",Full-bodied,95,,0
+1,119.97,"Beaulieu Vineyard Georges de Latour Private Reserve Cabernet Sauvignon, 2008",Beaulieu Vineyards,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Cassis, Cedar",Full-bodied,93,5.0,15
+2,189.99,"Bevan Cabernet Showket Oakville, 2009",Bevan cellars,California,Napa Valley,Oak Knoll,Cabernet Sauvignon,Concentrated,14.6,"Boysenberry, Cherry, Plum",Full-bodied,93,,0
+3,76.97,"Cakebread Cabernet Sauvignon, 2016",Cakebread,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Cassis, Berry, Chocolate",Full-bodied,91,4.3,47
+4,399.99,"Cardinale Red Napa, 2008",Cardinale,California,Napa Valley,,Cabernet Sauvignon,,,,,96,,0
+0,114.99,"Charles Krug Cabernet Select, 2016",Charles Krug,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Plum, Spice",Medium-bodied,95,,0
+1,249.99,"Chimney Rock Elevage, 2014",Chimney Rock,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Elegant,,"Cassis, Cherry, Mocha",Medium-bodied,91,4.3,6
+2,"1,299.97","Dominus, 2015",Dominus,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Wild Berry, Blackberry, Lavender",Full-bodied,100,,0
+3,699.97,"Dominus, 2016",Dominus,California,Napa Valley,,Cabernet Sauvignon,Concentrated,,"Blackberry, Black Raspberry, Plum",Full-bodied,100,4.5,4
+4,399.99,"Gemstone Cabernet Estate, 2016",Gemstone,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Blackberry, Licorice",Medium-bodied,93,,0
+0,"1,399.99","Joseph Phelps Cabernet Backus, 2003",Joseph Phelps,California,Napa Valley,,Cabernet Sauvignon,,,,,96,,0
+1,"1,299.99","Joseph Phelps Cabernet Backus, 2008",Joseph Phelps,California,Napa Valley,,Cabernet Sauvignon,,,,,94,,0
+2,469.97,"Melka Metisse Cabernet Martinez, 2016",Melka,California,Napa Valley,,Cabernet Sauvignon,Concentrated,15.5,"Red Fruit, Spice",Full-bodied,94,,0
+3,599.97,"Melka Metisse Cabernet Montbleau, 2016",Melka,California,Napa Valley,,Cabernet Sauvignon,Concentrated,15.1,"Cassis, Black Cherry",Full-bodied,97,,0
+4,99.99,"Moone Tsai Cabernet Napa, 2013",Moone Tsai,California,Napa Valley,,Cabernet Sauvignon,Concentrated,15.3,"Blackberry, Mocha",Full-bodied,92,,0
+0,45.99,"My Favorite Neighbor Red, 2017",My Favorite Neighbor,California,Central Coast,Paso Robles,Cabernet Sauvignon,Intense,,"Black Currant, Cassis, Licorice",Full-bodied,95,4.9,8
+1,289.97,"Myriad Cellars Cabernet Beckstoffer Dr. Crane Vineyard, 2014",Myriad Cellars,California,Napa Valley,,Cabernet Sauvignon,,,,,95,,0
+2,399.97,"Newton Cabernet Spring Mountain Single Vineyard, 2014",Newton,California,Napa Valley,Spring Mountain,Cabernet Sauvignon,Concentrated,,"Blueberry, Dark Berry, Chocolate",Full-bodied,94,,0
+3,99.99,"Nickel & Nickel Cabernet State Ranch, 2018",Nickel & Nickel,California,Napa Valley,,Cabernet Sauvignon,,,,,95,4.7,10
+4,279.99,"Paul Hobbs Cabernet Dr Crane, 2013",Paul Hobbs,California,Napa Valley,St. Helena,Cabernet Sauvignon,,,,,100,,0
+0,174.97,"Pride Cabernet Sauvignon, 2017",Pride,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Cassis, Cherry, Spice",Full-bodied,90,5.0,5
+1,339.99,"Pride Claret Reserve, 2009",Pride,California,,,Cabernet Sauvignon,,,,,94,,0
+2,34.99,"Raymond Cabernet Napa Reserve, 2017",Raymond,California,Napa Valley,,Cabernet Sauvignon,Intense,,"Licorice, Dark Chocolate",Full-bodied,92,4.6,28
+3,39.99,"Rodney Strong Cabernet Sauvignon Reserve, 2013",Rodney Strong,California,,,Cabernet Sauvignon,,,,,90,4.6,45
+4,249.99,"Rodney Strong Symmetry, 2013",Rodney Strong,California,Sonoma County,Alexander Valley,Cabernet Sauvignon,Elegant,,"Cassis, Mocha, Spice",Medium-bodied,91,4.7,9
+0,379.99,"Roy Estate Cabernet Sauvignon Napa, 2008",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Cassis, Truffle",Full-bodied,93,5.0,1
+1,359.99,"Roy Estate Cabernet Sauvignon Napa, 2006",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.5,"Blueberry, Chocolate",Full-bodied,92,,0
+2,299.99,"Roy Estate Proprietary Red Napa, 2006",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.2,"Blueberry, Chocolate",Full-bodied,94,,0
+3,149.99,"Roy Estate Proprietary Red Napa, 2008",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.2,"Blueberry, Chocolate",Full-bodied,93,,0
+4,399.99,"Roy Estate Proprietary Red Napa, 2012",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.2,"Black Currant, Sage",Full-bodied,95,,0
+0,469.99,"Roy Estate Proprietary Red Napa, 2014",Roy Estate,California,Napa Valley,,Cabernet Sauvignon,Concentrated,14.2,"Black Currant, Blackberry, Blueberry",Full-bodied,95,4.0,1
+1,729.99,"Shafer Cabernet Hillside Select, 1999",Shafer,California,Napa Valley,,Cabernet Sauvignon,,,,,93,,0
+2,719.97,"Shafer Cabernet Hillside Select, 2002",Shafer,California,Napa Valley,Stags Leap District,Cabernet Sauvignon,Concentrated,,"Cassis, Smoke, Oak",Full-bodied,100,,0
+3,21.99,"Shingleback Cabernet McLaren Vale, 2009",Shingleback,Australia,McLaren Vale,,Cabernet Sauvignon,Intense,14.5,"Cassis, Blueberry, Earth",Full-bodied,88,,0
+4,25.98,"Shotfire Cabernet Shiraz, 2015",Shotfire,Australia,Barossa,,Cabernet Sauvignon,Intense,12.6,"Blueberry, Cassis",Full-bodied,91,3.3,4
+0,129.97,"Silver Oak Cabernet Napa, 2002",Silver Oak,California,Napa Valley,,Cabernet Sauvignon,,,,,91,,0
+1,949.99,"Spottswoode Cabernet Napa, 2017",Spottswoode,California,Napa Valley,,Cabernet Sauvignon,Elegant,,"Floral, Cassis, Blueberry",Full-bodied,97,,0
+2,189.99,"TOR Cabernet Sauvignon Herb Lamb, 2014",TOR Napa Valley,California,Napa Valley,,Cabernet Sauvignon,,,,,94,,0
+3,399.99,"Woodward Canyon Cabernet Artist, 2012",Woodward Canyon,Washington,Columbia Valley,,Cabernet Sauvignon,Intense,,"Cherry, Currant",Full-bodied,93,5.0,1
+4,14.97,"Allegrini Palazzo Della Torre, 2013",Allegrini,Italy,Veneto,Valpolicella Classico,Corvina,Intense,,"Cassis, Berry, Vanilla",Medium-bodied,90,4.4,67
+0,139.99,"Espectacle del Montsant, 2016",Espectacle del Montsant,Spain,Montsant,,Graciano,,,,,98,,0
+1,17.49,"Trivento Golden Reserve Malbec, 2017",Trivento,Argentina,Mendoza,,Malbec,Intense,,"Plum, Spice",Full-bodied,91,4.4,41
+2,329.99,"Pio Cesare Barbaresco Il Bricco, 2016",Pio Cesare,Italy,Piedmont,Barbaresco,Nebbiolo,,,,,94,,0
+3,279.97,"Faiveley Corton Clos des Cortons, 2016",Faiveley,France,Burgundy,Aloxe-Corton,Pinot Meunier,,,,,95,,0
+4,599.97,"Clos de Tart, 2016",Clos de Tart,France,Burgundy,Morey-Saint-Denis,Pinot Noir,,,,,99,5.0,1
+0,149.99,"Dom Rossignol Beaune 1er Cru Mouches, 2017",Domaine Nicolas Rossignol,France,Burgundy,Beaune,Pinot Noir,,,,,93,,0
+1,89.99,"Dom Rossignol Pommard Les Vignots, 2014",Domaine Rossignol,France,Burgundy,Pommard,Pinot Noir,,,,,91,,0
+2,109.99,"Domaine Serene Pinot Noir Jerusalem, 2014",Domaine Serene,Oregon,Willamette Valley,,Pinot Noir,,,,,93,,0
+3,449.97,"Faiveley CChambertin ""Clos de Beze"" Grand Cru, 2016",Faiveley,France,Burgundy,Gevrey-Chambertin,Pinot Noir,,,,,95,,0
+4,345.99,"Grivot Clos Vougeot, 2016",Jean Grivot,France,Burgundy,Vougeot,Pinot Noir,,,,,93,,0
+0,114.99,"Latour NSG les Damodes, 2015",Louis Latour,France,Burgundy,Nuits-Saint-Georges,Pinot Noir,,,,,92,,0
+1,99.99,"Louis Jadot Volnay Clos de la Barre, 2018",Louis Jadot,France,Burgundy,Volnay,Pinot Noir,Elegant,,"Cassis, Red Plum, Chocolate",Medium-bodied,92,,0
+2,93.99,"Patz & Hall Pinot Noir Pisoni, 2014",Patz & Hall,California,Monterey,Santa Lucia Highlands,Pinot Noir,Elegant,,"Cherry, Berry, Spice",Medium-bodied,93,,0
+3,719.99,"Ponsot Morey Clos de la Roche Vieilles Vignes , 2014",Ponsot,France,Burgundy,Morey-Saint-Denis,Pinot Noir,,,,,95,,0
+4,19.99,"Baronia del Montsant Englora, 2008",Cellers Baronia del Montsant,Spain,Montsant,,Red Blend,Elegant,13.5,"Black Raspberry, Cherry",Medium-bodied,90,1.7,3
+0,15.49,"Locations by Dave Phinney """"ES""""",Locations,Spain,,,Red Blend,Fresh,,"Black Cherry, Pepper",Medium-bodied,93,4.7,21
+1,124.99,"Martinet Cami Pesseroles Priorat, 2017",Mas Martinet,Spain,Priorat,,Red Blend,,,,,94,,0
+2,529.99,"Roy Estate Mr. Evans Proprietary Red, 2015",Roy Estate,California,Napa Valley,,Red Blend,Concentrated,15.3,"Red Cherry, Blackberry",Full-bodied,95,5.0,3
+3,"1,099.99","Roy Estate Mr. Evans Proprietary Red, 2015",Roy Estate,California,Napa Valley,,Red Blend,Concentrated,15.3,"Red Cherry, Blackberry",Full-bodied,95,5.0,3
+4,41.99,"Wine & Soul Pintas Character, 2016",Wine & Soul,Portugal,Douro,,Red Blend,Elegant,,"Dark Fruit, Raspberry",Full-bodied,93,,0
+0,139.99,"Bosquet des Papes Chante Merle Vieilles Vignes, 2013",Bosquet Des Papes,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,95,5.0,1
+1,99.99,"Chapoutier Chateauneuf-du-Pape Croix De Bois, 2013",Chapoutier,France,Rhone,Chateauneuf-du-Pape,Rhone Blend,,,,,94,,0
+2,269.99,"Chapoutier Ermitage Le Meal, 2012",Chapoutier,France,Rhone,Hermitage,Rhone Blend,,,,,99,,0
+3,559.97,"Delas Cote Rotie La Landonne, 2016",Delas,France,Rhone,Cote Rotie,Rhone Blend,,,,,95,,0
+4,179.99,"Delas Cote Rotie Seigneur de Maugrion, 2013",Delas,France,Rhone,Cote Rotie,Rhone Blend,,,,,92,,0
+0,219.97,"Delas Cote Rotie Seigneur de Maugrion, 2016",Delas,France,Rhone,Cote Rotie,Rhone Blend,Intense,,"Black Fruit, Herb, Black Currant",Full-bodied,93,,0
+1,129.97,"Delas Crozes Hermitage Le Clos, 2016",Delas,France,Rhone,Crozes-Hermitage,Rhone Blend,,,,,92,,0
+2,219.97,"Delas Hermitage Domaine des Tourettes, 2016",Delas,France,Rhone,Hermitage,Rhone Blend,Concentrated,,"Black Currant, Blackberry",Full-bodied,93,,0
+3,459.97,"Delas Hermitage Les Bessards, 2014",Delas,France,Rhone,Hermitage,Rhone Blend,,,,,94,,0
+4,229.97,"Delas Hermitage Les Bessards, 2014",Delas,France,Rhone,Hermitage,Rhone Blend,,,,,94,,0
+0,499.97,"Delas Hermitage Les Bessards, 2016",Delas,France,Rhone,Hermitage,Rhone Blend,,,,,94,,0
+1,159.97,"Delas St Joseph St Epine, 2016",Delas,France,Rhone,Saint-Joseph,Rhone Blend,,,,,95,,0
+2,14.99,"Domaine Brusset Cotes de Rhone Laurent B, 2019",Domaine Brusset,France,Rhone,Cotes du Rhone,Rhone Blend,Fresh,13,"Red Fruit, Red Berry",Light-bodied,89,4.4,7
+3,449.99,"Guigal Cote Rotie La Mouline, 2012",E. Guigal,France,Rhone,Cote Rotie,Rhone Blend,Concentrated,,"Floral, Cassis, Smoke",Full-bodied,98,,0
+4,399.99,"Guigal Cote Rotie La Mouline, 2014",E. Guigal,France,Rhone,Cote Rotie,Rhone Blend,,,,,97,,0
+0,12.69,"Guigal Cotes du Rhone Rouge, 2018",E. Guigal,France,Rhone,Cotes du Rhone,Rhone Blend,Elegant,,"Blackberry, Chocolate",Full-bodied,91,4.5,68
+1,414.97,"Guigal Ermitage Ex Voto Rouge, 2012",E. Guigal,France,Rhone,Hermitage,Rhone Blend,,,,,96,,0
+2,399.97,"Guigal Ermitage Ex Voto Rouge, 2013",E. Guigal,France,Rhone,Hermitage,Rhone Blend,,,,,97,,0
+3,649.97,"Canalicchio Sopra Brunello di Montalcino Riserva, 2012",Canalicchio Sopra,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Intense,,"Berry, Dark Fruit, Licorice",Full-bodied,95,,0
+4,39.99,"Canalicchio Sopra Rosso , 2017",Canalicchio Sopra,Italy,Tuscany,Rosso di Montalcino,Sangiovese,,,,,91,,0
+0,59.97,"Felsina Fontalloro IGT Toscana, 2017",Felsina,Italy,Tuscany,,Sangiovese,,,,,95,,0
+1,374.99,"Fontodi Flaccianello della Pieve, 1999",Fontodi,Italy,Tuscany,Toscana,Sangiovese,,,,,94,,0
+2,119.99,"Vasco Sassetti Brunello di Montalcino, 2007",Vasco Sassetti,Italy,Tuscany,Brunello di Montalcino,Sangiovese,Concentrated,14.5,"Cherry, Spice",Full-bodied,94,5.0,2
+3,199.99,"Anaperenna Shiraz Cabernet (Godolphin), 2005",Anaperenna,Australia,Barossa,,Syrah/Shiraz,Intense,,"Raspberry, Blueberry",Full-bodied,93,5.0,1
+4,72.99,"Betz Syrah La Serenne, 2011",Betz,Washington,Yakima Valley,,Syrah/Shiraz,Concentrated,,"Blackberry, Violet",Full-bodied,92,3.0,1
+0,84.99,"Chapoutier Crozes-Hermitage Les Varonniers, 2014",Chapoutier,France,Rhone,Crozes-Hermitage,Syrah/Shiraz,,,,,93,,0
+1,99.99,"Chapoutier St Joseph Les Granits Rouge, 2018",Chapoutier,France,Rhone,Saint-Joseph,Syrah/Shiraz,,,,,95,,0
+2,93.99,"DuMOL Syrah Jack Roberts, 2013",DuMOL,California,,,Syrah/Shiraz,,,,,92,,0
+3,144.99,"Vinedos de Paganos La Nieta, 2016",Vinedos de Paganos,Spain,Rioja,,Tannat,,,,,98,,0
+4,61.99,"Artadi Rioja Valdegines, 2016",Artadi,Spain,Rioja,,Tempranillo,,14.5,,,94,,0
+0,29.99,"Asua Rioja Reserva, 2016",Asua,Spain,Rioja,,Tempranillo,Elegant,14,"Berry, Oak, Leather",Medium-bodied,93,3.9,19
+1,209.99,"Cayuse Tempranillo Impulsivo, 2008",Cayuse Vineyards,Washington,Columbia Valley,Walla Walla,Tempranillo,,,,,91,,0
+2,44.99,"Muga Rioja Seleccion Especial Reserva, 2012",Muga,Spain,Rioja,,Tempranillo,Intense,,"Strawberry, Cherry",Medium-bodied,92,4.7,23
+3,82.99,"Teso la Monja Victorino, 2017",Teso la Monja,Spain,Toro,,Tempranillo,,,,,93,,0
+4,44.99,"Orin Swift 8 Years in the Desert, 2018",Orin Swift,California,,,Zinfandel,,,,,92,4.8,59
